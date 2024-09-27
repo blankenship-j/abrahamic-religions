@@ -1,1 +1,4 @@
- # schema for project 
+start = doc 
+    doc = element doc {text} 
+    
+# schema for project 
