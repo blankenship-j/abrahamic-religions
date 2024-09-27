@@ -1,5 +1,22 @@
 start = doc 
-    doc = element doc {text} 
+    doc = element doc {text}   
+# stories 
+ # creation story
+ # relevations - end of the world stuff 
+ # parables in general 
+ # noah 
+ # moses
+ # abraham
+ # sodom gomorrah 
+ # issac
+
+# within stories: 
+    # love
+    # god/allah
+        # element with attribute on how he is referenced (positive, negative, neutral)
+    # respect and honor
+    # children
+    # teach
+    # listen 
+    # worship 
     
-# stoies 
-  
