@@ -1,4 +1,5 @@
 start = doc 
     doc = element doc {text} 
     
-# schema for project 
+# stoies 
+  
