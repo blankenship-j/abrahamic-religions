@@ -1,3 +1,4 @@
+<?xml-model href="texts-schema.rnc" type="application/relax-ng-compact-syntax"?>
 <doc name = "Quran">
 <story>Creation
 <chapter number = "14">

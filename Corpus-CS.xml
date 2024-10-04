@@ -1,4 +1,5 @@
 
+<?xml-model href="texts-schema.rnc" type="application/relax-ng-compact-syntax"?>
 <doc name = "Christian Scripture">    
 <story>Jesus 
 <book name="Luke">         

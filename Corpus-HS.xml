@@ -1,3 +1,4 @@
+<?xml-model href="texts-schema.rnc" type="application/relax-ng-compact-syntax"?>
 <doc name = "Hebrew Scripture">
 <story>Creation  
 <book name="Genesis"> 
