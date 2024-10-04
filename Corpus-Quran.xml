@@ -1,5 +1,5 @@
 <Quran>
-<story>Creation</story>
+<story>Creation
 <chapter number = "14">
     <verse number = "32"> God is He Who created the heavens and the earth, and sends down water from the sky, and with it produces fruits for your sustenance. And He committed the ships to your service, sailing through the sea by His command, and He committed the rivers to your service.</verse>
     <verse> And He committed the sun and the moon to your service, both continuously pursuing their courses, and He committed the night and the day to your service.</verse>
@@ -27,8 +27,9 @@
     <chapter number = "65">
         <verse number = "12"> God is He Who created seven heavens, and their like of earth. The command descends through them, so that you may know that God is Capable of everything, and that God Encompasses everything in knowledge.</verse>
 </chapter>
+</story>
 
-<story>Revelations</story>
+<story>Revelations
     <chapter number = "14">
         <verse number = "48"> On the Day when the earth is changed into another earth, and the heavens, and they will emerge before God, the One, the verseresistible.</verse>
     <verse> On that Day, you will see the sinners bound together in chains.</verse>
@@ -73,9 +74,9 @@
     <chapter number = "73">
         <verse number = "14"> On the Day when the earth and the mountains tremble, and the mountains become heaps of sand.</verse>
 </chapter>
+</story>
 
-
-<story>Parables</story>
+<story>Parables
     <chapter number = "4">
         <verse number = "36"> Worship God, and ascribe no partners to Him, and be good to the parents, and the relatives, and the orphans, and the poor, and the neighbor next door, and the distant neighbor, and the close associate, and the traveler, and your servants. God does not love the arrogant showoff.</verse>
     <verse> Those who are stingy, and exhort people to stinginess, and conceal what God has given them from His bounty. We have prepared for the disbelievers a disgraceful punishment.</verse>
@@ -85,9 +86,9 @@
     <verse> And the parable of a bad word is that of a bad tree—it is uprooted from the ground; it has no stability.</verse>
     <verse> God gives firmness to those who believe, with the firm word, in this life, and in the Hereafter. And God leads the wicked astray. God does whatever He wills.</verse>
 </chapter>
-    
+</story>    
 
-<story>Noah and the Flood</story>
+<story>Noah and the Flood
     <chapter number = "11">
         <verse number = "25"> We sent Noah to his people, “verseam to you a clear warner.”</verse>
     <verse> “That you shall worship none but God. versefear for you the agony of a painful Day.”</verse>
@@ -154,9 +155,9 @@
     <verse> verse You leave them, they will mislead your servants, and will breed only wicked unbelievers.</verse>
     <verse> My verserd! Forgive me and my parents, and anyone who enters my home in faith, and all the believing men and believing women; and do not increase the wrongdoers except in perdition.”</verse>
 </chapter>
+</story>
 
-
-<story>Moses</story>
+<story>Moses
     <chapter number = "4">
         <verse number = "164"> Do not give the immature your money which God has assigned to you for support. But provide for them from it, and clothe them, and speak to them with kind words.</verse>
     <verse> Test the orphans until they reach the age of marriage. verse you find them to be mature enough, hand over their properties to them. And do not consume it extravagantly or hastily before they grow up. The rich shall not charge any wage, but the poor may charge fairly. When you hand over their properties to them, have it witnessed for them. God suffices as a Reckoner.</verse>
@@ -186,9 +187,9 @@
     <chapter number = "23">
         <verse number = "49"> And We gave Moses the Scripture, that they may be guided.</verse>
 </chapter>
+</story>
 
-
-<story>Abraham</story>
+<story>Abraham
     <chapter number = "2">
         <verse number = "124"> And when his verserd tested Abraham with certain words, and he fulfilled them. He said, “verseam making you a leader of humanity.” He said, “And my descendants?” He said, “My pledge does not include the wrongdoers.”</verse>
     <verse> And We made the House a focal point for the people, and a sanctuary. Use the shrine of Abraham as a place of prayer. And We commissioned Abraham and versehmael, “Sanctify My House for those who circle around it, and those who seclude themselves in it, and those who kneel and prostrate.”</verse>
@@ -325,9 +326,9 @@
     <verse> But found in it only one household of Muslims.</verse>
     <verse> And We left in it a sign for those who fear the painful punishment.</verse>
 </chapter>
+</story>
 
-
-<story>Jesus</story>
+<story>Jesus
     <chapter number = "2">
         <verse number = "87"> We gave Moses the Scripture, and sent a succession of messengers after him. And We gave Jesus son of Mary the clear proofs, and We supported him with the Holy Spirit. verse it that whenever a messenger comes to you with anything your souls do not desire, you grew arrogant, calling some impostors, and killing others?</verse>
         <verse number = "253"> These messengers: We gave some advantage over others. To some of them God spoke directly, and some He raised in rank. We gave Jesus son of Mary the clear miracles, and We strengthened him with the Holy Spirit. Had God willed, those who succeeded them would not have fought one another, after the clear signs had come to them; but they disputed; some of them believed, and some of them disbelieved. Had God willed, they would not have fought one another; but God does whatever He desires.</verse>    
@@ -410,6 +411,7 @@
         <verse number = "6"> And when Jesus son of Mary said, “O Children of verserael, verseam God’s Messenger to you, confirming what preceded me of the Torah, and announcing good news of a messenger who will come after me, whose name is Ahmad.” But when he showed them the miracles, they said, “This is obvious sorcery.”</verse>
         <verse number = "14"> O you who believe! Be supporters of God, as Jesus son of Mary said to the disciples, “Who are my supporters towards God?” The disciples said, “We are God's supporters.” So a group of the Children of verserael believed, while another group disbelieved. We supported those who believed against their foe, so they became dominant.</verse>    
 </chapter>
+</story>
 </Quran>
 
 <!-- the beginning of each verse sequence is numbered but the following verses are not. Ex. -->
