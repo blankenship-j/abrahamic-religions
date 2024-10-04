@@ -1,5 +1,5 @@
 
-<Christian-Scripture>    
+<doc name = "Christian Scripture">    
 <story>Jesus 
 <book name="Luke">         
 	{1:1} Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,        
@@ -475,4 +475,4 @@
 	{2:21} Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?     
 </book>
 </story>
-</Christian-Scripture>
+</doc>

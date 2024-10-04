@@ -1,4 +1,4 @@
-<Quran>
+<doc name = "Quran">
 <story>Creation
 <chapter number = "14">
     <verse number = "32"> God is He Who created the heavens and the earth, and sends down water from the sky, and with it produces fruits for your sustenance. And He committed the ships to your service, sailing through the sea by His command, and He committed the rivers to your service.</verse>
@@ -412,7 +412,7 @@
         <verse number = "14"> O you who believe! Be supporters of God, as Jesus son of Mary said to the disciples, “Who are my supporters towards God?” The disciples said, “We are God's supporters.” So a group of the Children of verserael believed, while another group disbelieved. We supported those who believed against their foe, so they became dominant.</verse>    
 </chapter>
 </story>
-</Quran>
+</doc>   
 
 <!-- the beginning of each verse sequence is numbered but the following verses are not. Ex. -->
 <!-- <verse number = "1"> this is verse one <verse> --> 
