@@ -9,14 +9,13 @@ story = element story {mixed {(book | chapter)+}}
     
     
 # stories 
- # creation story
- # relevations - end of the world stuff 
- # parables in general 
- # noah 
- # moses
- # abraham
- # sodom gomorrah 
- # issac
+    # Creation (c)
+    # Revelations (r) 
+    # Parables (p)
+    # Noah and the Flood (n)
+    # Moses (m)
+    # Abraham (a)
+    # Jesus (j)
 
 # within stories: 
     # love
