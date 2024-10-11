@@ -1,3 +1,4 @@
+<?xml-model href="texts-schema.rnc" type="application/relax-ng-compact-syntax"?>
 <doc name = "Quran">
 <story>Creation
 <chapter number = "14">
@@ -419,6 +420,7 @@
 <!-- <verse> this is verse two <verse> --> 
 <!-- <verse> this is verse three <verse> --> 
 
+<!--<<<<<<< HEAD-->
 <!-- The Quran itself, in its original Arabic, has not changed. However, translations can vary significantly in wording. Here are a few examples of how certain phrases might differ between translations:
 1.	Surah Al-Fatiha (Chapter 1, Verse 1):
 o	Translation A: "In the name of Allah, the Most Gracious, the Most Merciful."
@@ -429,3 +431,33 @@ o	Translation B: "God! There is no god but He, the Living, the Sustainer of all 
 3.	Surah Al-Ikhlas (Chapter 112, Verse 1):
 o	Translation A: "Say, 'He is Allah, [who is] One."
 o	Translation B: "Proclaim: He is God, the One." -->
+<!--=======-->
+
+
+
+
+
+<!-- The Quran has remained largely unchanged since its revelation in the 7th century, and any differences between "old" and "new" versions usually refer to the various translations or interpretations rather than changes in the original Arabic text. Here are some points of distinction:
+
+Translations: Different translations may use varying language and style, affecting readability and interpretation. Some translations aim for a more literal approach, while others focus on conveying the meaning in a more accessible way.
+Tafsir (Exegesis): Over time, interpretations and commentaries (tafsir) on the Quran have evolved, reflecting new understandings of language, context, and historical circumstances.
+Print and Formatting: Earlier printed versions may have had different scripts or styles. Modern versions often include vowel markings and diacritics to aid in pronunciation.
+Accessibility: Recent editions might incorporate additional resources, such as footnotes, explanations, or cross-references, to help readers understand the text's context better.
+Digital Editions: Modern versions are often available in various digital formats, including audio and interactive apps, making them more accessible to a broader audience.
+ 
+
+words or sentences changes?
+
+The Quran itself, in its original Arabic, has not changed. However, translations can vary significantly in wording. Here are a few examples of how certain phrases might differ between translations:
+
+Surah Al-Fatiha (Chapter 1, Verse 1):
+Translation A: "In the name of Allah, the Most Gracious, the Most Merciful."
+Translation B: "In the name of God, the Compassionate, the Merciful."
+Surah Al-Baqarah (Chapter 2, Verse 255 - Ayat al-Kursi):
+Translation A: "Allah! There is no deity except Him, the Ever-Living, the Sustainer of existence."
+Translation B: "God! There is no god but He, the Living, the Sustainer of all that exists."
+Surah Al-Ikhlas (Chapter 112, Verse 1):
+Translation A: "Say, 'He is Allah, [who is] One."
+Translation B: "Proclaim: He is God, the One." --> 
+
+<!-->>>>>>> 07e2fb1880974f94d1847e5d128ea880cdc7eb91-->
