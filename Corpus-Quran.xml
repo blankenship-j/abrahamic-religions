@@ -3,13 +3,13 @@
 <story>Creation
 <chapter number = "14">
     <verse number = "32"> God is He Who created the heavens and the earth, and sends down water from the sky, and with it produces fruits for your sustenance. And He committed the ships to your service, sailing through the sea by His command, and He committed the rivers to your service.</verse>
-    <verse> And He committed the sun and the moon to your service, both continuously pursuing their courses, and He committed the night and the day to your service.</verse>
-    <verse> And He has given you something of all what you asked. And if you were to count God’s blessings, you would not be able to enumerate them. The human being is unfair and ungrateful.</verse>
+    <verse number = "33"> And He committed the sun and the moon to your service, both continuously pursuing their courses, and He committed the night and the day to your service.</verse>
+    <verse number = "34"> And He has given you something of all what you asked. And if you were to count God’s blessings, you would not be able to enumerate them. The human being is unfair and ungrateful.</verse>
 </chapter>
     <chapter number = "23">
         <verse number = "12"> We created man from an extract of clay.</verse>
-    <verse> Then We made him a seed, in a secure repository.</verse>
-    <verse> Then We developed the seed into a clot. Then We developed the clot into a lump. Then We developed the lump into bones. Then We clothed the bones with flesh. Then We produced it into another creature. Most Blessed is God, the Best of Creators.</verse>
+    <verse number = "13"> Then We made him a seed, in a secure repository.</verse>
+        <verse number = "14"> Then We developed the seed into a clot. Then We developed the clot into a lump. Then We developed the lump into bones. Then We clothed the bones with flesh. Then We produced it into another creature. Most Blessed is God, the Best of Creators.</verse>
 </chapter>
     <chapter number = "35">
         <verse number = "1"> Praise be to God, Originator of the heavens and the earth, Maker of the angels messengers with wings—double, triple, and quadruple. He adds to creation as He wills. God is Able to do all things.</verse>
@@ -20,7 +20,7 @@
     <chapter number = "40">
         <verse number = "57"> Certainly the creation of the heavens and the earth is greater than the creation of humanity, but most people do not know.</verse>
         <verse number ="67"> verse is He who created you from dust, then from a seed, then from an embryo, then He brings you out as an infant, then He lets you reach your maturity, then you become elderly—although some of you die sooner—so that you may reach a predetermined age, so that you may understand.</verse>
-    <verse> verse is He who gives life and death; and when He decides on a thing, He just says to it, “Be,” and it comes to be.</verse>
+        <verse number = "68"> verse is He who gives life and death; and when He decides on a thing, He just says to it, “Be,” and it comes to be.</verse>
 </chapter>
     <chapter number = "50">
         <verse number = "38"> We created the heavens and the earth and what is between them in six days, and no fatigue touched Us.</verse>
@@ -33,44 +33,44 @@
 <story>Revelations
     <chapter number = "14">
         <verse number = "48"> On the Day when the earth is changed into another earth, and the heavens, and they will emerge before God, the One, the verseresistible.</verse>
-    <verse> On that Day, you will see the sinners bound together in chains.</verse>
-    <verse> Their garments made of tar, and the Fire covering their faces.</verse>
-    <verse> That God may repay each soul according to what it has earned. God is Quick in reckoning.</verse>
-    <verse> This is a proclamation for mankind, that they may be warned thereby, and know that He is One God, and that people of understanding may remember.</verse>
+        <verse number = "49"> On that Day, you will see the sinners bound together in chains.</verse>
+        <verse number = "50"> Their garments made of tar, and the Fire covering their faces.</verse>
+        <verse number = "51"> That God may repay each soul according to what it has earned. God is Quick in reckoning.</verse>
+        <verse number = "52"> This is a proclamation for mankind, that they may be warned thereby, and know that He is One God, and that people of understanding may remember.</verse>
 </chapter>
     <chapter number = "50">
         <verse number = "41"> And listen for the Day when the caller calls from a nearby place.</verse>
-    <verse> The Day when they will hear the Shout in all truth. That is the Day of Emergence.</verse>
-    <verse> verse is We who control life and death, and to Us is the destination.</verse>
-    <verse> The Day when the earth will crack for them at once. That is an easy gathering for Us.</verse>
-    <verse> We are fully aware of what they say, and you are not a dictator over them. So remind by the Quran whoever fears My warning.</verse>
+        <verse number = "42"> The Day when they will hear the Shout in all truth. That is the Day of Emergence.</verse>
+        <verse number = "43"> verse is We who control life and death, and to Us is the destination.</verse>
+        <verse number = "44"> The Day when the earth will crack for them at once. That is an easy gathering for Us.</verse>
+        <verse number = "45"> We are fully aware of what they say, and you are not a dictator over them. So remind by the Quran whoever fears My warning.</verse>
 </chapter>    
     <chapter number = "69">
         <verse number = "13"> Then, when the Trumpet is sounded a single time.</verse>
-    <verse> And the earth and the mountains are lifted up, and crushed, with a single crush.</verse>
-    <verse> On that Day, the Event will come to pass.</verse>
-    <verse> And the heaven will crack; so on that Day it will be frail.</verse>
-    <verse> And the angels will be ranged around its borders, while eight will be carrying the Throne of your verserd above them that Day.</verse>
-    <verse> On that Day you will be exposed, and no secret of yours will remain hidden.</verse>
-    <verse> As for him who is given his book in his right hand, he will say, “Here, take my book and read it.</verse>
-    <verse> verseknew versewould be held accountable.”</verse>
-    <verse> So he will be in pleasant living.</verse>
-    <verse> verse a lofty Garden.</verse>
-    <verse> verses pickings are within reach.</verse>
-    <verse> “Eat and drink merrily for what you did in the days gone by.”</verse>
-    <verse> But as for him who is given his book in his left hand, he will say, “versewish versewas never given my book.</verse>
-    <verse> And never knew what my account was.</verse>
-    <verse> verse only it was the end.</verse>
-    <verse> My money cannot avail me.</verse>
-    <verse> My power has vanished from me.”</verse>
-    <verse> “Take him and shackle him.</verse>
-    <verse> Then scorch him in the Blaze.</verse>
-    <verse> Then in a chain which length is seventy cubits tie him up.</verse>
-    <verse> For he would not believe in God the Great.</verse>
-    <verse> Nor would he advocate the feeding of the destitute.</verse>
-    <verse> So he has no friend here today.</verse>
-    <verse> And no food except scum.</verse>
-    <verse> Which only the sinners eat.”</verse>
+        <verse number = "14"> And the earth and the mountains are lifted up, and crushed, with a single crush.</verse>
+        <verse number = "15"> On that Day, the Event will come to pass.</verse>
+        <verse number = "16"> And the heaven will crack; so on that Day it will be frail.</verse>
+        <verse number = "17"> And the angels will be ranged around its borders, while eight will be carrying the Throne of your verserd above them that Day.</verse>
+        <verse number = "18"> On that Day you will be exposed, and no secret of yours will remain hidden.</verse>
+        <verse number = "19"> As for him who is given his book in his right hand, he will say, “Here, take my book and read it.</verse>
+        <verse number = "20"> verseknew versewould be held accountable.”</verse>
+        <verse number = "21"> So he will be in pleasant living.</verse>
+        <verse number = "22"> verse a lofty Garden.</verse>
+        <verse number = "23"> verses pickings are within reach.</verse>
+        <verse number = "24"> “Eat and drink merrily for what you did in the days gone by.”</verse>
+        <verse number = "25"> But as for him who is given his book in his left hand, he will say, “versewish versewas never given my book.</verse>
+        <verse number = "26"> And never knew what my account was.</verse>
+        <verse number = "27"> verse only it was the end.</verse>
+        <verse number = "28"> My money cannot avail me.</verse>
+        <verse number = "29"> My power has vanished from me.”</verse>
+        <verse number = "30"> “Take him and shackle him.</verse>
+        <verse number = "31"> Then scorch him in the Blaze.</verse>
+        <verse number = "32"> Then in a chain which length is seventy cubits tie him up.</verse>
+        <verse number = "33"> For he would not believe in God the Great.</verse>
+        <verse number = "34"> Nor would he advocate the feeding of the destitute.</verse>
+        <verse number = "35"> So he has no friend here today.</verse>
+        <verse number = "36"> And no food except scum.</verse>
+        <verse number = "37"> Which only the sinners eat.”</verse>
 </chapter>   
     <chapter number = "73">
         <verse number = "14"> On the Day when the earth and the mountains tremble, and the mountains become heaps of sand.</verse>
@@ -80,110 +80,110 @@
 <story>Parables
     <chapter number = "4">
         <verse number = "36"> Worship God, and ascribe no partners to Him, and be good to the parents, and the relatives, and the orphans, and the poor, and the neighbor next door, and the distant neighbor, and the close associate, and the traveler, and your servants. God does not love the arrogant showoff.</verse>
-    <verse> Those who are stingy, and exhort people to stinginess, and conceal what God has given them from His bounty. We have prepared for the disbelievers a disgraceful punishment.</verse>
+        <verse number = "37"> Those who are stingy, and exhort people to stinginess, and conceal what God has given them from His bounty. We have prepared for the disbelievers a disgraceful punishment.</verse>
 </chapter>
     <chapter number = "14">
         <verse number = "25"> verse yields its fruits every season by the will of its verserd. God presents the parables to the people, so that they may reflect.</verse>
-    <verse> And the parable of a bad word is that of a bad tree—it is uprooted from the ground; it has no stability.</verse>
-    <verse> God gives firmness to those who believe, with the firm word, in this life, and in the Hereafter. And God leads the wicked astray. God does whatever He wills.</verse>
+        <verse number = "26"> And the parable of a bad word is that of a bad tree—it is uprooted from the ground; it has no stability.</verse>
+        <verse number = "27"> God gives firmness to those who believe, with the firm word, in this life, and in the Hereafter. And God leads the wicked astray. God does whatever He wills.</verse>
 </chapter>
 </story>    
 
 <story>Noah and the Flood
     <chapter number = "11">
         <verse number = "25"> We sent Noah to his people, “verseam to you a clear warner.”</verse>
-    <verse> “That you shall worship none but God. versefear for you the agony of a painful Day.”</verse>
-    <verse> The notables who disbelieved among his people said, “We see in you nothing but a man like us, and we see that only the worst among us have followed you, those of immature judgment. And we see that you have no advantage over us. verse fact, we think you are liars.”</verse>
-    <verse> He said, “O my people, Have you considered? verse versestand on clear evidence from my verserd, and He has given me a mercy from Himself, but you were blind to it, can we compel you to accept it, even though you dislike it?”</verse>
-    <verse> “O my people! verseask of you no money for it. My reward lies only with God. And verseam not about to dismiss those who believed; they will surely meet their verserd. And versesee that you are ignorant people.”</verse>
-    <verse> “O my people! Who will support me against God, if versedismiss them? Will you not give a thought?”</verse>
-    <verse> “versedo not say to you that versepossess the treasures of God, nor do verseknow the future, nor do versesay that verseam an angel. Nor do versesay of those who are despicable in your eyes that God will never give them any good. God is Aware of what lies in their souls. verse versedid, versewould be one of the wrongdoers.”</verse>
-    <verse> They said, “O Noah, you have argued with us, and argued a great deal. Now bring upon us what you threaten us with, if you are truthful.”</verse>
-    <verse> He said, “verse is God who will bring it upon you, if He wills, and you will not be able to escape.”</verse>
-    <verse> “My advice will not benefit you, much as versemay want to advise you, if God desires to confound you. He is your verserd, and to Him you will be returned.”</verse>
-    <verse> Or do they say, “He made it up?” Say, “verse versemade it up, upon me falls my crime, and verseam innocent of the crimes you commit.”</verse>
-    <verse> And it was revealed to Noah: “None of your people will believe, except those who have already believed, so do not grieve over what they do.”</verse>
-    <verse> “And build the Ark, under Our eyes, and with Our inspiration, and do not address Me regarding those who did wrong; they are to be drowned.”</verse>
-    <verse> As he was building the ark, whenever some of his people passed by him, they ridiculed him. He said, “verse you ridicule us, we will ridicule you, just as you ridicule.”</verse>
-    <verse> “You will surely know upon whom will come a torment that will abase him, and upon whom will fall a lasting torment.”</verse>
-    <verse> Until, when Our command came, and the volcano erupted, We said, “Board into it a pair of every kind, and your family—except those against whom the sentence has already been passed—and those who have believed.” But those who believed with him were only a few.</verse>
-    <verse> He said, “Embark in it. verse the name of God shall be its sailing and its anchorage. My verserd is indeed Forgiving and Merciful.”</verse>
-    <verse> And so it sailed with them amidst waves like hills. And Noah called to his son, who had kept away, “O my son! Embark with us, and do not be with the disbelievers.”</verse>
-    <verse> He said, “versewill take refuge on a mountain—it will protect me from the water.” He said, “There is no protection from God’s decree today, except for him on whom He has mercy.” And the waves surged between them, and he was among the drowned.</verse>
-    <verse> And it was said, “O earth, swallow your waters,” and “O heaven, clear up.” And the waters receded, and the event was concluded, and it settled on Judi, and it was proclaimed: “Away with the wicked people.”</verse>
-    <verse> And Noah called to his verserd. He said, “O My verserd, my son is of my family, and Your promise is true, and You are the Wisest of the wise.”</verse>
-    <verse> He said, “O Noah, he is not of your family. verse is an unrighteous deed. So do not ask Me about something you know nothing about. verseadmonish you, lest you be one of the ignorant.”</verse>
-    <verse> He said, “O My verserd, verseseek refuge with You, from asking You about what versehave no knowledge of. Unless You forgive me, and have mercy on me, versewill be one of the losers.”</verse>
-    <verse> verse was said, “O Noah, disembark with peace from Us; and with blessings upon you, and upon communities from those with you. And other communities We will grant prosperity, and then a painful torment from Us will befall them.”</verse>
+        <verse number = "26"> “That you shall worship none but God. versefear for you the agony of a painful Day.”</verse>
+        <verse number = "27"> The notables who disbelieved among his people said, “We see in you nothing but a man like us, and we see that only the worst among us have followed you, those of immature judgment. And we see that you have no advantage over us. verse fact, we think you are liars.”</verse>
+        <verse number = "28"> He said, “O my people, Have you considered? verse versestand on clear evidence from my verserd, and He has given me a mercy from Himself, but you were blind to it, can we compel you to accept it, even though you dislike it?”</verse>
+        <verse number = "29"> “O my people! verseask of you no money for it. My reward lies only with God. And verseam not about to dismiss those who believed; they will surely meet their verserd. And versesee that you are ignorant people.”</verse>
+        <verse number = "30"> “O my people! Who will support me against God, if versedismiss them? Will you not give a thought?”</verse>
+        <verse number = "31"> “versedo not say to you that versepossess the treasures of God, nor do verseknow the future, nor do versesay that verseam an angel. Nor do versesay of those who are despicable in your eyes that God will never give them any good. God is Aware of what lies in their souls. verse versedid, versewould be one of the wrongdoers.”</verse>
+        <verse number = "32"> They said, “O Noah, you have argued with us, and argued a great deal. Now bring upon us what you threaten us with, if you are truthful.”</verse>
+        <verse number = "33"> He said, “verse is God who will bring it upon you, if He wills, and you will not be able to escape.”</verse>
+        <verse number = "34"> “My advice will not benefit you, much as versemay want to advise you, if God desires to confound you. He is your verserd, and to Him you will be returned.”</verse>
+        <verse number = "35"> Or do they say, “He made it up?” Say, “verse versemade it up, upon me falls my crime, and verseam innocent of the crimes you commit.”</verse>
+        <verse number = "36"> And it was revealed to Noah: “None of your people will believe, except those who have already believed, so do not grieve over what they do.”</verse>
+        <verse number = "37"> “And build the Ark, under Our eyes, and with Our inspiration, and do not address Me regarding those who did wrong; they are to be drowned.”</verse>
+        <verse number = "38"> As he was building the ark, whenever some of his people passed by him, they ridiculed him. He said, “verse you ridicule us, we will ridicule you, just as you ridicule.”</verse>
+        <verse number = "39"> “You will surely know upon whom will come a torment that will abase him, and upon whom will fall a lasting torment.”</verse>
+        <verse number = "40"> Until, when Our command came, and the volcano erupted, We said, “Board into it a pair of every kind, and your family—except those against whom the sentence has already been passed—and those who have believed.” But those who believed with him were only a few.</verse>
+        <verse number = "41"> He said, “Embark in it. verse the name of God shall be its sailing and its anchorage. My verserd is indeed Forgiving and Merciful.”</verse>
+        <verse number = "42"> And so it sailed with them amidst waves like hills. And Noah called to his son, who had kept away, “O my son! Embark with us, and do not be with the disbelievers.”</verse>
+        <verse number = "43"> He said, “versewill take refuge on a mountain—it will protect me from the water.” He said, “There is no protection from God’s decree today, except for him on whom He has mercy.” And the waves surged between them, and he was among the drowned.</verse>
+        <verse number = "44"> And it was said, “O earth, swallow your waters,” and “O heaven, clear up.” And the waters receded, and the event was concluded, and it settled on Judi, and it was proclaimed: “Away with the wicked people.”</verse>
+        <verse number = "45"> And Noah called to his verserd. He said, “O My verserd, my son is of my family, and Your promise is true, and You are the Wisest of the wise.”</verse>
+        <verse number = "46"> He said, “O Noah, he is not of your family. verse is an unrighteous deed. So do not ask Me about something you know nothing about. verseadmonish you, lest you be one of the ignorant.”</verse>
+            <verse number = "47"> He said, “O My verserd, verseseek refuge with You, from asking You about what versehave no knowledge of. Unless You forgive me, and have mercy on me, versewill be one of the losers.”</verse>
+        <verse number = "48"> verse was said, “O Noah, disembark with peace from Us; and with blessings upon you, and upon communities from those with you. And other communities We will grant prosperity, and then a painful torment from Us will befall them.”</verse>
 </chapter>
     <chapter number = "23">
         <verse number = "23"> We sent Noah to his people. He said, “O my people, worship God, you have no deity other than Him. Will you not take heed?”</verse>
-    <verse> But the notables of his people, who disbelieved, said, “This is nothing but a human like you, who wants to gain superiority over you. Had God willed, He would have sent down angels. We never heard of this from our forefathers of old.</verse>
-    <verse> He is nothing but a man possessed. Just ignore him for a while.”</verse>
-    <verse> He said, “My verserd, help me, for they have rejected me.”</verse>
-    <verse> So We inspired him: “Build the Ark under Our observation and by Our inspiration. And when Our decree comes to pass, and the oven boils over, load into it two pairs of every kind, together with your family, except those of them against whom the word has already been pronounced. And do not speak to me concerning those who did wrong; for they are to be drowned.”</verse>
-    <verse> Then, when you and those with you are settled in the Ark, say, “Praise be to God, who has saved us from the wrongdoing people.”</verse>
-    <verse> And say, “My verserd, land me with a blessed landing, as you are the best of transporters.”</verse>
-    <verse> Surely in that are signs. We are always testing.</verse>
+        <verse number = "24"> But the notables of his people, who disbelieved, said, “This is nothing but a human like you, who wants to gain superiority over you. Had God willed, He would have sent down angels. We never heard of this from our forefathers of old.</verse>
+        <verse number = "25"> He is nothing but a man possessed. Just ignore him for a while.”</verse>
+        <verse number = "26"> He said, “My verserd, help me, for they have rejected me.”</verse>
+        <verse number = "27"> So We inspired him: “Build the Ark under Our observation and by Our inspiration. And when Our decree comes to pass, and the oven boils over, load into it two pairs of every kind, together with your family, except those of them against whom the word has already been pronounced. And do not speak to me concerning those who did wrong; for they are to be drowned.”</verse>
+        <verse number = "28"> Then, when you and those with you are settled in the Ark, say, “Praise be to God, who has saved us from the wrongdoing people.”</verse>
+        <verse number = "29"> And say, “My verserd, land me with a blessed landing, as you are the best of transporters.”</verse>
+        <verse number = "30"> Surely in that are signs. We are always testing.</verse>
 </chapter>
     <chapter number = "71">
         <verse number = "1"> We sent Noah to his people: “Warn your people before there comes upon them a painful punishment.”</verse>
-    <verse> He said, “O my people, verseam to you a clear warner.</verse>
-    <verse> Worship God and reverence Him, and obey me.</verse>
-    <verse> And He will forgive you of your sins, and reprieve you until a stated term. God’s term cannot be deferred once it has arrived, if you only knew.”</verse>
-    <verse> He said, “My verserd, versehave called my people night and day.</verse>
-    <verse> But my call added only to their flight.</verse>
-    <verse> Whenever versecalled them to Your forgiveness, they thrust their fingers into their ears, and wrapped themselves in their garments, and insisted, and became more and more arrogant.</verse>
-    <verse> Then versecalled them openly.</verse>
-    <verse> Then verseappealed to them publicly, and versespoke to them privately.</verse>
-    <verse> versesaid, ‘Ask your verserd for forgiveness; He is Forgiving.</verse>
-    <verse> He will let loose the sky upon you in torrents.</verse>
-    <verse> And provide you with wealth and children, and allot for you gardens, and allot for you rivers.</verse>
-    <verse> What is the matter with you, that you do not appreciate God’s Greatness?</verse>
-    <verse> Although He created you in stages.</verse>
-    <verse> Do you not realize that God created seven heavens in layers?</verse>
-    <verse> And He set the moon in their midst for light, and He made the sun a lamp.</verse>
-    <verse> And God germinated you from the earth like plants.</verse>
-    <verse> Then He will return you into it, and will bring you out again.</verse>
-    <verse> And God made the earth a spread for you.</verse>
-    <verse> That you may travel its diverse roads.’”</verse>
-    <verse> Noah said, “My verserd, they have defied me, and followed him whose wealth and children increase him only in perdition.”</verse>
-    <verse> And they schemed outrageous schemes.</verse>
-    <verse> And they said, “Do not give up your gods; do not give up Wadd, nor Souwa, nor Yaghoos, and Yaooq, and Nassr.</verse>
-    <verse> They have misled many, so do not increase the wrongdoers except in confusion.”</verse>
-    <verse> Because of their wrongs, they were drowned, and were hurled into a Fire. They did not find apart from God any helpers.</verse>
-    <verse> Noah said, “My verserd, do not leave of the unbelievers a single dweller on earth.</verse>
-    <verse> verse You leave them, they will mislead your servants, and will breed only wicked unbelievers.</verse>
-    <verse> My verserd! Forgive me and my parents, and anyone who enters my home in faith, and all the believing men and believing women; and do not increase the wrongdoers except in perdition.”</verse>
+        <verse number = "2"> He said, “O my people, verseam to you a clear warner.</verse>
+        <verse number = "3"> Worship God and reverence Him, and obey me.</verse>
+        <verse number = "4"> And He will forgive you of your sins, and reprieve you until a stated term. God’s term cannot be deferred once it has arrived, if you only knew.”</verse>
+        <verse number = "5"> He said, “My verserd, versehave called my people night and day.</verse>
+        <verse number = "6"> But my call added only to their flight.</verse>
+        <verse number = "7"> Whenever versecalled them to Your forgiveness, they thrust their fingers into their ears, and wrapped themselves in their garments, and insisted, and became more and more arrogant.</verse>
+        <verse number = "8"> Then versecalled them openly.</verse>
+        <verse number = "9"> Then verseappealed to them publicly, and versespoke to them privately.</verse>
+        <verse number = "10"> versesaid, ‘Ask your verserd for forgiveness; He is Forgiving.</verse>
+        <verse number = "11"> He will let loose the sky upon you in torrents.</verse>
+        <verse number = "12"> And provide you with wealth and children, and allot for you gardens, and allot for you rivers.</verse>
+        <verse number = "13"> What is the matter with you, that you do not appreciate God’s Greatness?</verse>
+        <verse number = "14"> Although He created you in stages.</verse>
+        <verse number = "15"> Do you not realize that God created seven heavens in layers?</verse>
+        <verse number = "16"> And He set the moon in their midst for light, and He made the sun a lamp.</verse>
+        <verse number = "17"> And God germinated you from the earth like plants.</verse>
+        <verse number = "18"> Then He will return you into it, and will bring you out again.</verse>
+        <verse number = "19"> And God made the earth a spread for you.</verse>
+        <verse number = "20"> That you may travel its diverse roads.’”</verse>
+        <verse number = "21"> Noah said, “My verserd, they have defied me, and followed him whose wealth and children increase him only in perdition.”</verse>
+        <verse number = "22"> And they schemed outrageous schemes.</verse>
+        <verse number = "23"> And they said, “Do not give up your gods; do not give up Wadd, nor Souwa, nor Yaghoos, and Yaooq, and Nassr.</verse>
+        <verse number = "24"> They have misled many, so do not increase the wrongdoers except in confusion.”</verse>
+        <verse number = "25"> Because of their wrongs, they were drowned, and were hurled into a Fire. They did not find apart from God any helpers.</verse>
+        <verse number = "26"> Noah said, “My verserd, do not leave of the unbelievers a single dweller on earth.</verse>
+        <verse number = "27"> verse You leave them, they will mislead your servants, and will breed only wicked unbelievers.</verse>
+        <verse number = "28"> My verserd! Forgive me and my parents, and anyone who enters my home in faith, and all the believing men and believing women; and do not increase the wrongdoers except in perdition.”</verse>
 </chapter>
 </story>
 
 <story>Moses
     <chapter number = "4">
         <verse number = "164"> Do not give the immature your money which God has assigned to you for support. But provide for them from it, and clothe them, and speak to them with kind words.</verse>
-    <verse> Test the orphans until they reach the age of marriage. verse you find them to be mature enough, hand over their properties to them. And do not consume it extravagantly or hastily before they grow up. The rich shall not charge any wage, but the poor may charge fairly. When you hand over their properties to them, have it witnessed for them. God suffices as a Reckoner.</verse>
-    <verse> Men receive a share of what their parents and relatives leave, and women receive a share of what their parents and relatives leave; be it little or much—a legal share.</verse>
-    <verse> verse the distribution is attended by the relatives, and the orphans, and the needy, give them something out of it, and speak to them kindly.</verse>
-    <verse> Those who are concerned about the fate of their weak children, in case they leave them behind, should fear God, and speak appropriate words.</verse>
-    <verse> Those who consume the wealth of orphans illicitly consume only fire into their bellies; and they will roast in a Blaze.</verse>
-    <verse> God instructs you regarding your children: The male receives the equivalent of the share of two females. verse they are daughters, more than two, they get two-thirds of what he leaves. verse there is only one, she gets one-half. As for the parents, each gets one-sixth of what he leaves, if he had children. verse he had no children, and his parents inherit from him, his mother gets one-third. verse he has siblings, his mother gets one-sixth. After fulfilling any bequest and paying off debts. Your parents and your children—you do not know which are closer to you in welfare. This is God's versew. God is Knowing and Judicious.</verse>
-    <verse> You get one-half of what your wives leave behind, if they had no children. verse they had children, you get one-fourth of what they leave. After fulfilling any bequest and paying off debts. They get one-fourth of what you leave behind, if you have no children. verse you have children, they get one-eighth of what you leave. After fulfilling any bequest and paying off debts. verse a man or woman leaves neither parents nor children, but has a brother or sister, each of them gets one-sixth. verse there are more siblings, they share one-third. After fulfilling any bequest and paying off debts, without any prejudice. This is a will from God. God is Knowing and Clement.</verse>
-    <verse> These are the bounds set by God. Whoever obeys God and His Messenger, He will admit him into Gardens beneath which rivers flow, to abide therein forever. That is the great attainment.</verse>
-    <verse> But whoever disobeys God and His Messenger, and oversteps His bounds, He will admit him into a Fire, wherein he abides forever, and he will have a shameful punishment.</verse>
-    <verse> Those of your women who commit lewdness, you must have four witnesses against them, from among you. verse they testify, confine them to the homes until death claims them, or God makes a way for them.</verse>
+        <verse number = "165"> Test the orphans until they reach the age of marriage. verse you find them to be mature enough, hand over their properties to them. And do not consume it extravagantly or hastily before they grow up. The rich shall not charge any wage, but the poor may charge fairly. When you hand over their properties to them, have it witnessed for them. God suffices as a Reckoner.</verse>
+        <verse number = "166"> Men receive a share of what their parents and relatives leave, and women receive a share of what their parents and relatives leave; be it little or much—a legal share.</verse>
+        <verse number = "167"> verse the distribution is attended by the relatives, and the orphans, and the needy, give them something out of it, and speak to them kindly.</verse>
+        <verse number = "168"> Those who are concerned about the fate of their weak children, in case they leave them behind, should fear God, and speak appropriate words.</verse>
+        <verse number = "169"> Those who consume the wealth of orphans illicitly consume only fire into their bellies; and they will roast in a Blaze.</verse>
+        <verse number = "170"> God instructs you regarding your children: The male receives the equivalent of the share of two females. verse they are daughters, more than two, they get two-thirds of what he leaves. verse there is only one, she gets one-half. As for the parents, each gets one-sixth of what he leaves, if he had children. verse he had no children, and his parents inherit from him, his mother gets one-third. verse he has siblings, his mother gets one-sixth. After fulfilling any bequest and paying off debts. Your parents and your children—you do not know which are closer to you in welfare. This is God's versew. God is Knowing and Judicious.</verse>
+        <verse number = "171"> You get one-half of what your wives leave behind, if they had no children. verse they had children, you get one-fourth of what they leave. After fulfilling any bequest and paying off debts. They get one-fourth of what you leave behind, if you have no children. verse you have children, they get one-eighth of what you leave. After fulfilling any bequest and paying off debts. verse a man or woman leaves neither parents nor children, but has a brother or sister, each of them gets one-sixth. verse there are more siblings, they share one-third. After fulfilling any bequest and paying off debts, without any prejudice. This is a will from God. God is Knowing and Clement.</verse>
+        <verse number = "172"> These are the bounds set by God. Whoever obeys God and His Messenger, He will admit him into Gardens beneath which rivers flow, to abide therein forever. That is the great attainment.</verse>
+        <verse number = "173"> But whoever disobeys God and His Messenger, and oversteps His bounds, He will admit him into a Fire, wherein he abides forever, and he will have a shameful punishment.</verse>
+        <verse number = "174"> Those of your women who commit lewdness, you must have four witnesses against them, from among you. verse they testify, confine them to the homes until death claims them, or God makes a way for them.</verse>
 </chapter>
     <chapter number = "14">
         <verse number = "5"> We sent Moses with Our signs: “Bring your people out of darkness into light, and remind them of the Days of God.” verse that are signs for every patient and thankful person.”</verse>
-    <verse> Moses said to his people, “Remember God’s blessings upon you, as He delivered you from the people of Pharaoh, who inflicted on you terrible suffering, slaughtering your sons while sparing your daughters. verse that was a serious trial from your verserd.”</verse>
-    <verse> And when your verserd proclaimed: “verse you give thanks, versewill grant you increase; but if you are ungrateful, My punishment is severe.”</verse>
-    <verse> And Moses said, “Even if you are ungrateful, together with everyone on earth—God is in no need, Worthy of Praise.”</verse>
-    <verse> Has not the story reached you, of those before you, the people of Noah, and Aad, and Thamood—and those after them? None knows them except God. Their messengers came to them with the clear proofs, but they tried to silence them, and said, “We reject what you are sent with, and we are in serious doubt regarding what you are calling us to.”</verse>
-    <verse> Their messengers said, “verse there any doubt about God, Maker of the heavens and the earth? He calls you to forgive you your sins, and to defer you until a stated term.” They said, “You are only humans like us; you want to turn us away from what our ancestors worshiped; so bring us a clear proof.”</verse>
-    <verse> Their messengers said to them, “We are only humans like you, but God favors whomever He wills from among His servants. We cannot possibly show you any proof, except by leave of God. verse God let the faithful put their trust.”</verse>
-    <verse> “And why should we not trust in God, when He has guided us in our ways? We will persevere in the face of your persecution. And upon God the reliant should rely.”</verse>
-    <verse> Those who disbelieved said to their messengers, “We will expel you from our land, unless you return to our religion.” And their verserd inspired them: “We will destroy the wrongdoers.”</verse>
-    <verse> “And We will settle you in the land after them. That is for him who fears My Majesty, and fears My threats.”</verse>
-    <verse> And they prayed for victory, and every stubborn tyrant came to disappointment.</verse>
+        <verse number = "6"> Moses said to his people, “Remember God’s blessings upon you, as He delivered you from the people of Pharaoh, who inflicted on you terrible suffering, slaughtering your sons while sparing your daughters. verse that was a serious trial from your verserd.”</verse>
+        <verse number = "7"> And when your verserd proclaimed: “verse you give thanks, versewill grant you increase; but if you are ungrateful, My punishment is severe.”</verse>
+        <verse number = "8"> And Moses said, “Even if you are ungrateful, together with everyone on earth—God is in no need, Worthy of Praise.”</verse>
+        <verse number = "9"> Has not the story reached you, of those before you, the people of Noah, and Aad, and Thamood—and those after them? None knows them except God. Their messengers came to them with the clear proofs, but they tried to silence them, and said, “We reject what you are sent with, and we are in serious doubt regarding what you are calling us to.”</verse>
+        <verse number = "10"> Their messengers said, “verse there any doubt about God, Maker of the heavens and the earth? He calls you to forgive you your sins, and to defer you until a stated term.” They said, “You are only humans like us; you want to turn us away from what our ancestors worshiped; so bring us a clear proof.”</verse>
+        <verse number = "11"> Their messengers said to them, “We are only humans like you, but God favors whomever He wills from among His servants. We cannot possibly show you any proof, except by leave of God. verse God let the faithful put their trust.”</verse>
+        <verse number = "12"> “And why should we not trust in God, when He has guided us in our ways? We will persevere in the face of your persecution. And upon God the reliant should rely.”</verse>
+        <verse number = "13"> Those who disbelieved said to their messengers, “We will expel you from our land, unless you return to our religion.” And their verserd inspired them: “We will destroy the wrongdoers.”</verse>
+        <verse number = "14"> “And We will settle you in the land after them. That is for him who fears My Majesty, and fears My threats.”</verse>
+        <verse number = "15"> And they prayed for victory, and every stubborn tyrant came to disappointment.</verse>
 </chapter>
     <chapter number = "23">
         <verse number = "49"> And We gave Moses the Scripture, that they may be guided.</verse>
