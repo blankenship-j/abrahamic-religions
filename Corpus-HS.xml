@@ -275,7 +275,7 @@
 	</verse><verse number = "12:18"> And Pharaoh called Abram, and said, What [is] this [that] thou hast done unto me? why didst thou not tell me that she [was] thy wife? 
 	</verse><verse number = "12:19"> Why saidst thou, She [is] my sister? so I might have taken her to me to wife: now therefore behold thy wife, take [her,] and go thy way. 
 	</verse><verse number = "12:20"> And Pharaoh commanded [his] men concerning him: and they sent him away, and his wife, and all that he had. </verse></book> Genesis 17 
-<book name="Genesis"> <!-- ip --> 
+<book name="Genesis"> <!-- done --> 
 	<verse number = "17:1"> And when Abram was ninety years old and nine, the <god characterization="powerful">LORD</god> appeared to Abram, and said unto him, I [am] the Almighty <god characterization="powerful">God</god>; walk before me, and be thou perfect. 
 	</verse><verse number = "17:2"> <blessings>And I will make my covenant between me and thee, and will multiply thee exceedingly</blessings>. 
 	</verse><verse number = "17:3"> And Abram fell on his face: and <god characterization="other-neutral">God</god> talked with him, saying, 
@@ -294,16 +294,16 @@
 	</verse><verse number = "17:16"> And <god characterization="other-positive">I</god> will bless her, and <blessings>give thee a son also of her: yea, I will bless her, and she shall be [a mother] of nations; kings of people shall be of her</blessings>. 
 	</verse><verse number = "17:17"> Then Abraham fell upon his face, and laughed, and said in his heart, Shall [a child] be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear? 
 	</verse><verse number = "17:18"> And Abraham said unto <god characterization="other-neutral">God</god>, O that Ishmael might live before thee! 
-	</verse><verse number = "17:19"> And <god characterization="other-positive">God</god> said, Sarah thy wife shall bear thee a son indeed; and thou shalt call his name Isaac: and I will establish my covenant with him for an everlasting covenant, [and] with his seed after him. 
-	</verse><verse number = "17:20"> And as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation. 
-	</verse><verse number = "17:21"> But my covenant will I establish with Isaac, which Sarah shall bear unto thee at this set time in the next year. 
-	</verse><verse number = "17:22"> And he left off talking with him, and God went up from Abraham. 
+	</verse><verse number = "17:19"> And <god characterization="other-positive">God</god> said, <blessings>Sarah thy wife shall bear thee a son indeed; and thou shalt call his name Isaac: and I will establish my covenant with him for an everlasting covenant, [and] with his seed after him</blessings>. 
+	</verse><verse number = "17:20"> And as for Ishmael, <god characterization="other-positive">I</god> have heard thee: Behold, <god characterization="other-positive">I</god> have <blessings>blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation</blessings>. 
+	</verse><verse number = "17:21"> But my covenant will <god characterization="other-positive">I</god> establish with Isaac, which Sarah shall bear unto thee at this set time in the next year. 
+	</verse><verse number = "17:22"> And he left off talking with him, and <god characterization="other-neutral">God</god> went up from Abraham. 
 	</verse><verse number = "17:23"> And Abraham took Ishmael his son, and all that were born in his house, and all that were bought with his money, every male among the men of Abraham’s house; and circumcised the flesh of their foreskin in the selfsame day, as God had said unto him. 
 	</verse><verse number = "17:24"> And Abraham [was] ninety years old and nine, when he was circumcised in the flesh of his foreskin. 
 	</verse><verse number = "17:25"> And Ishmael his son [was] thirteen years old, when he was circumcised in the flesh of his foreskin. 
 	</verse><verse number = "17:26"> In the selfsame day was Abraham circumcised, and Ishmael his son. 
 	</verse><verse number = "17:27"> And all the men of his house, born in the house, and bought with money of the stranger, were circumcised with him. </verse></book> Genesis 22:1-14
-<book name="Genesis"> 
+<book name="Genesis"> <!-- ip --> 
 	<verse number = "22:1"> And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, [here] I [am. ]
 	</verse><verse number = "22:2"> And he said, Take now thy son, thine only [son] Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of. 
 	</verse><verse number = "22:3"> And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him. 
@@ -319,3 +319,22 @@
 	</verse><verse number = "22:13"> And Abraham lifted up his eyes, and looked, and behold behind [him] a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son. 
 	</verse><verse number = "22:14"> And Abraham called the name of that place Jehovah-jireh: as it is said [to] this day, In the mount of the LORD it shall be seen. </verse></book></story>
 </doc>
+
+
+<!-- outline --> 
+	<!-- creation (done)-->
+		<!-- Genesis 1:1 - 2:3 (done)-->
+	<!-- noah and the flood --> 
+		<!-- Genesis 6:1-9:29 --> 
+	<!-- moses --> 
+		<!-- Exodus 2:1-2:25 --> 
+		<!-- Exodus 3:1-3:6 --> 
+		<!-- Exodus 18:1-18:27 --> 
+		<!-- Exodus 19:1-19:25 --> 
+		<!-- Exodus 33:1-33:23 --> 
+	<!-- abraham (ip) --> 
+		<!-- Genesis 12:1-12:20 (done)-->
+		<!-- Genesis 17:1-17:27 (done)-->
+		<!-- Gensis 22:1- 22:14 --> 
+
+
