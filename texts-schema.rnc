@@ -5,7 +5,7 @@ story = element story {mixed {(book | chapter)+}}
     book = element book {mixed {name}, verse+}
     chapter = element chapter {number, verse+}
         number = attribute number {text}
-        verse = element verse {mixed {number, (god | allah | love | respect | worship | blessings)*}}
+        verse = element verse {mixed {number, (god | allah | love | respect | worship | blessings | heaven | hell)*}}
             god = element god {characterization, text}
                 characterization = attribute characterization {"creator" | "wrathful" | "loving" | "powerful" | "merciful" | "other-positive" | "other-negative" | "other-neutral"} 
             allah = element allah {characterization, text}
@@ -14,6 +14,8 @@ story = element story {mixed {(book | chapter)+}}
             respect = element respect {recipient, text}    
             worship = element worship {recipient, text}
             blessings = element blessings {text}
+            heaven = element heaven {text}
+            hell = element hell {text}
                
     
     
