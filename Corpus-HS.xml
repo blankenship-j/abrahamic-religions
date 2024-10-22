@@ -303,21 +303,21 @@
 	</verse><verse number = "17:25"> And Ishmael his son [was] thirteen years old, when he was circumcised in the flesh of his foreskin. 
 	</verse><verse number = "17:26"> In the selfsame day was Abraham circumcised, and Ishmael his son. 
 	</verse><verse number = "17:27"> And all the men of his house, born in the house, and bought with money of the stranger, were circumcised with him. </verse></book> Genesis 22:1-14
-<book name="Genesis"> <!-- ip --> 
-	<verse number = "22:1"> And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, [here] I [am. ]
-	</verse><verse number = "22:2"> And he said, Take now thy son, thine only [son] Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of. 
-	</verse><verse number = "22:3"> And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him. 
+<book name="Genesis"> <!-- done --> 
+	<verse number = "22:1"> And it came to pass after these things, that <god characterization = "other-negative">God</god> did tempt Abraham, and said unto him, Abraham: and he said, Behold, [here] I [am. ]
+	</verse><verse number = "22:2"> And he said, Take now thy son, <love recipient = "others">thine only [son] Isaac, whom thou lovest</love>, and get thee into the land of Moriah; and <worship recipient = "god">offer him there for a burnt offering</worship> upon one of the mountains which I will tell thee of. 
+	</verse><verse number = "22:3"> And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which <god characterization="other-neutral">God had told him</god>. 
 	</verse><verse number = "22:4"> Then on the third day Abraham lifted up his eyes, and saw the place afar off. 
 	</verse><verse number = "22:5"> And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you, 
 	</verse><verse number = "22:6"> And Abraham took the wood of the burnt offering, and laid [it] upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together. 
 	</verse><verse number = "22:7"> And Isaac spake unto Abraham his father, and said, My father: and he said, Here [am] I, my son. And he said, Behold the fire and the wood: but where [is] the lamb for a burnt offering? 
-	</verse><verse number = "22:8"> And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together. 
-	</verse><verse number = "22:9"> And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood. 
-	</verse><verse number = "22:10"> And Abraham stretched forth his hand, and took the knife to slay his son. 
+	</verse><verse number = "22:8"> And Abraham said, My son, <god characterization = "other-positive">God will provide himself a lamb for a burnt offering</god>: so they went both of them together. 
+	</verse><verse number = "22:9"> And they came to the place which <god characterization="other-neutral">God had told him of</god>; and <worship recipient = "god">Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood.</worship> 
+	</verse><verse number = "22:10"> <worship recipient = "god">And Abraham stretched forth his hand, and took the knife to slay his son.</worship>
 	</verse><verse number = "22:11"> And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here [am] I. 
-	</verse><verse number = "22:12"> And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only [son] from me. 
-	</verse><verse number = "22:13"> And Abraham lifted up his eyes, and looked, and behold behind [him] a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son. 
-	</verse><verse number = "22:14"> And Abraham called the name of that place Jehovah-jireh: as it is said [to] this day, In the mount of the LORD it shall be seen. </verse></book></story>
+	</verse><verse number = "22:12"> And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now <god descrip = "fear of">I know that thou fearest God</god>, seeing thou hast not withheld thy son, thine only [son] from me. 
+	</verse><verse number = "22:13"> And Abraham lifted up his eyes, and looked, and behold behind [him] a ram caught in a thicket by his horns: and <worship recipient = "god">Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son. </worship>
+	</verse><verse number = "22:14"> And Abraham called the name of that place <god characterization="other-positive">Jehovah-jireh: as it is said [to] this day, In the mount of the LORD it shall be seen.</god> </verse></book></story>
 </doc>
 
 
@@ -332,9 +332,9 @@
 		<!-- Exodus 18:1-18:27 --> 
 		<!-- Exodus 19:1-19:25 --> 
 		<!-- Exodus 33:1-33:23 --> 
-	<!-- abraham (ip) --> 
+	<!-- abraham (done) --> 
 		<!-- Genesis 12:1-12:20 (done)-->
 		<!-- Genesis 17:1-17:27 (done)-->
-		<!-- Gensis 22:1- 22:14 --> 
+		<!-- Gensis 22:1- 22:14 (done)--> 
 
 
