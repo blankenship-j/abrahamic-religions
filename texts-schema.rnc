@@ -30,7 +30,16 @@ story = element story {mixed {(book | chapter)+}}
             hell = element hell {text}
                
     
+# Definitions 
+    # wrathful 
+    # loving 
+    # powerful 
+    # merciful 
+    # other-positive 
+    # other-negative 
+    # other-neutral 
     
+ 
 # stories 
     # Creation (c)
     # Revelations (r) 
