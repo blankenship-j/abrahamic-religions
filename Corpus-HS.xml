@@ -3,33 +3,34 @@
 <story>Creation  <!-- done -->
 <book name="Genesis"> <!-- done -->
 	<verse number = "1:1"> In the beginning <god characterization="creator">God</god> created the heaven and the earth. </verse>
-	<verse number = "1:2"> And the earth was without form, and void; and darkness [was] upon the face of the deep. And the Spirit of <god characterization="other-neutral">God</god> moved upon the face of the waters. 
-	</verse><verse number = "1:3"> And <god characterization="creator">God</god> said, Let there be light: and there was light. 
-	</verse><verse number = "1:4"> And <god characterization="creator">God</god> saw the light, that [it was] good: and God divided the light from the darkness. 
-	</verse><verse number = "1:5"> And <god characterization="creator">God</god> called the light Day, and the darkness he called Night. And the evening and the morning were the first day. 
-	</verse><verse number = "1:6"> And <god characterization="creator">God</god> said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. 
-	</verse><verse number = "1:7"> And <god characterization="creator">God</god> made the firmament, and divided the waters which [were] under the firmament from the waters which [were] above the firmament: and it was so.
-	</verse><verse number = "1:8"> And <god characterization="creator">God</god> called the firmament <heaven>Heaven</heaven>. And the evening and the morning were the second day. 
-	</verse><verse number = "1:9"> And <god characterization="creator">God</god> said, Let the waters under the heaven be gathered together unto one place, and let the dry [land] appear: and it was so. 
-	</verse><verse number = "1:10"> And <god characterization="creator">God</god> called the dry [land] Earth; and the gathering together of the waters called he Seas: and God saw that [it was] good. 
-	</verse><verse number = "1:11"> And <god characterization="creator">God</god> said, Let the earth bring forth grass, the herb yielding seed, [and] the fruit tree yielding fruit after his kind, whose seed [is] in itself, upon the earth: and it was so. 
+	<verse number = "1:2"> And the earth was without form, and void; and darkness [was] upon the face of the deep. And the Spirit of <god characterization="other-neutral">God moved upon the face of the waters.</god> 
+	</verse><verse number = "1:3"> And <god characterization="creator">God said, Let there be light: and there was light.</god>
+	</verse><verse number = "1:4"> And <god characterization="creator">God saw the light, that [it was] good: and God divided the light from the darkness.</god>
+	</verse><verse number = "1:5"> And <god characterization="creator">God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.</god> 
+	</verse><verse number = "1:6"> And <god characterization="creator">God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.</god>
+	</verse><verse number = "1:7"> And <god characterization="creator">God made the firmament, and divided the waters which [were] under the firmament from the waters which [were] above the firmament: and it was so.</god>
+	</verse><verse number = "1:8"> And <god characterization="creator">God</god> called the firmament <heaven>Heaven</heaven>. And the evening and the morning were the second day.
+	</verse><verse number = "1:9"> And <god characterization="creator">God said, Let the waters under the heaven be gathered together unto one place, and let the dry [land] appear: and it was so.</god>
+	</verse><verse number = "1:10"> And <god characterization="creator">God called the dry [land] Earth; and the gathering together of the waters called he Seas: and God saw that [it was] good.</god> 
+	</verse><verse number = "1:11"> And <god characterization="creator">God said, Let the earth bring forth grass, the herb yielding seed, [and] the fruit tree yielding fruit after his kind, whose seed [is] in itself, upon the earth: and it was so.</god>
 	</verse><verse number = "1:12"> And the earth brought forth grass, [and] herb yielding seed after his kind, and the tree yielding fruit, whose seed [was] in itself, after his kind: and <god characterization="creator">God</god> saw that [it was] good. 
 	</verse><verse number = "1:13"> And the evening and the morning were the third day.
-	</verse><verse number = "1:14"> And <god characterization="creator">God</god> said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years: 
+	</verse><verse number = "1:14"> And <god characterization="creator">God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:</god>
 	</verse><verse number = "1:15"> And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so. 
-	</verse><verse number = "1:16"> And <god characterization="creator">God</god> made two great lights; the greater light to rule the day, and the lesser light to rule the night: [he made] the stars also.
-	</verse><verse number = "1:17"> And <god characterization="creator">God</god> set them in the firmament of the heaven to give light upon the earth, 
+	</verse><verse number = "1:16"> And <god characterization="creator">God made two great lights; the greater light to rule the day, and the lesser light to rule the night: [he made] the stars also.</god>
+	</verse><verse number = "1:17"> And <god characterization="creator">God set them in the firmament of the heaven to give light upon the earth,</god>
 	</verse><verse number = "1:18"> And to rule over the day and over the night, and to divide the light from the darkness: and God saw that [it was] good. 
 	</verse><verse number = "1:19"> And the evening and the morning were the fourth day. 
-	</verse><verse number = "1:20"> And <god characterization="creator">God</god> said, Let the waters bring forth abundantly the moving creature that hath life, and fowl [that] may fly above the earth in the open firmament of heaven. 
-	</verse><verse number = "1:21"> And <god characterization="creator">God</god> created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that [it was] good. 
+	</verse><verse number = "1:20"> And <god characterization="creator">God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl [that] may fly above the earth in the open firmament of heaven.</god> 
+	</verse><verse number = "1:21"> And <god characterization="creator">Godcreated great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind:</god> and God saw that [it was] good. 
 	</verse><verse number = "1:22"> And <god characterization="creator">God</god> blessed them, saying, <blessings>Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.</blessings> 
 	</verse><verse number = "1:23"> And the evening and the morning were the fifth day.
-	</verse><verse number = "1:24"> And <god characterization="creator">God</god> said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so. 
-	</verse><verse number = "1:25"> And <god characterization="creator">God</god> made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that [it was] good. 
-	</verse><verse number = "1:26"> And <god characterization="creator">God</god> said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth. 
-	</verse><verse number = "1:27"> So <god characterization="creator">God</god> created man in his [own] image, in the image of <god characterization="creator">God</god> created he him; male and female created he them. 
-	</verse><verse number = "1:28"> And <god characterization="creator">God</god> blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. 
+	</verse><verse number = "1:24"> And <god characterization="creator">God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.</god>
+	</verse><verse number = "1:25"> And <god characterization="creator">God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that [it was] good.</god> 
+	</verse><verse number = "1:26"> And <god characterization="creator">God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.</god>
+	</verse><verse number = "1:27"> So <god characterization="creator">God created man in his [own] image, in the image of God created he him; male and female created he them.</god>
+	</verse><verse number = "1:28"> And <god characterization="other-positive">God blessed them</god>, and <blessings>God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.</blessings> 
+		<!-- break --> 
 	</verse><verse number = "1:29"> And <god characterization="creator">God</god> said, Behold, I have given you every herb bearing seed, which [is] upon the face of all the earth, and every tree, in the which [is] the fruit of a tree yielding seed; to you it shall be for meat.
 	</verse><verse number = "1:30"> And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein [there is] life, [I have given] every green herb for meat: and it was so. 
 	</verse><verse number = "1:31"> And <god characterization="creator">God</god> saw every thing that he had made, and, behold, [it was] very good. And the evening and the morning were the sixth day. 
@@ -38,35 +39,35 @@
 	</verse><verse number = "2:3"> And <god characterization="creator">God</god> blessed <blessings>the seventh day, and sanctified it:</blessings> because that in it he had rested from all his work which God created and made. </verse></book>
 </story>
 
-<story>Noah and the Flood Genesis 6-9 
-<book name="Genesis"> 
+<story>Noah and the Flood (Genesis 6:1-9:19) <!-- done -->
+<book name="Genesis"> <!-- done -->
 	<verse number = "6:1"> And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them, 
 	</verse><verse number = "6:2"> That the sons of God saw the daughters of men that they [were] fair; and they took them wives of all which they chose. 
-	</verse><verse number = "6:3"> And the LORD said, My spirit shall not always strive with man, for that he also [is] flesh: yet his days shall be an hundred and twenty years. 
+	</verse><verse number = "6:3"> And <god characterization = "other-neutral">the LORD</god> said, My spirit shall not always strive with man, for that he also [is] flesh: yet his days shall be an hundred and twenty years. 
 	</verse><verse number = "6:4"> There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare [children] to them, the same [became] mighty men which [were] of old, men of renown. 
-	</verse><verse number = "6:5"> And GOD saw that the wickedness of man [was] great in the earth, and [that] every imagination of the thoughts of his heart [was] only evil continually. 
-	</verse><verse number = "6:6"> And it repented the LORD that he had made man on the earth, and it grieved him at his heart. 
-	</verse><verse number = "6:7"> And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them. 
-	</verse><verse number = "6:8"> But Noah found grace in the eyes of the LORD. 
-	</verse><verse number = "6:9"> These [are] the generations of Noah: Noah was a just man [and] perfect in his generations, [and] Noah walked with God. 
+	</verse><verse number = "6:5"> And <god characterization = "other-neutral">GOD saw</god> that the wickedness of man [was] great in the earth, and [that] every imagination of the thoughts of his heart [was] only evil continually. 
+	</verse><verse number = "6:6"> And it <god characterization="other-neutral">repented the LORD that he had made man on the earth</god>, and it grieved him at his heart. 
+	</verse><verse number = "6:7"> And the <god characterization="wrathful">LORD said</god>, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them. 
+	</verse><verse number = "6:8"> <god characterization="merciful">But Noah found grace in the eyes of the LORD. </god>
+	</verse><verse number = "6:9"> These [are] the generations of Noah: Noah was a just man [and] perfect in his generations, [and] <worship recipient="god">Noah walked with God</worship>. 
 	</verse><verse number = "6:10"> And Noah begat three sons, Shem, Ham, and Japheth. 
-	</verse><verse number = "6:11"> The earth also was corrupt before God, and the earth was filled with violence. 
-	</verse><verse number = "6:12"> And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth. 
-	</verse><verse number = "6:13"> And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth. 
+	</verse><verse number = "6:11"> The earth also was corrupt before <god characterization="other-neutral">God</god>, and the earth was filled with violence. 
+	</verse><verse number = "6:12"> And <god characterization="other-neutral">God</god> looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth. 
+	</verse><verse number = "6:13"> And <god characterization="wrathful">God said unto Noah</god>, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth. 
 	</verse><verse number = "6:14"> Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch. 
 	</verse><verse number = "6:15"> And this [is the fashion] which thou shalt make it [of:] The length of the ark [shall be] three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits. 
 	</verse><verse number = "6:16"> A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; [with] lower, second, and third [stories] shalt thou make it. 
-	</verse><verse number = "6:17"> And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein [is] the breath of life, from under heaven; [and] every thing that [is] in the earth shall die. 
-	</verse><verse number = "6:18"> But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’ wives with thee. 
+	</verse><verse number = "6:17"> And, behold, I<god characterization="wrathful">, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein [is] the breath of life, from under heaven; [and] every thing that [is] in the earth shall die.</god> 
+	</verse><verse number = "6:18"> <god characterization="merciful">But with thee will I establish my covenant</god>; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’ wives with thee. 
 	</verse><verse number = "6:19"> And of every living thing of all flesh, two of every [sort] shalt thou bring into the ark, to keep [them] alive with thee; they shall be male and female. 
 	</verse><verse number = "6:20"> Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every [sort] shall come unto thee, to keep [them] alive. 
 	</verse><verse number = "6:21"> And take thou unto thee of all food that is eaten, and thou shalt gather [it] to thee; and it shall be for food for thee, and for them. 
 	</verse><verse number = "6:22"> Thus did Noah; according to all that God commanded him, so did he. 
-	</verse><verse number = "7:1"> And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation. 
+	</verse><verse number = "7:1"> <god characterization="merciful">And the LORD said unto Noah</god>, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation. 
 	</verse><verse number = "7:2"> Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that [are] not clean by two, the male and his female. 
 	</verse><verse number = "7:3"> Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth. 
-	</verse><verse number = "7:4"> For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living substance that I have made will I destroy from off the face of the earth. 
-	</verse><verse number = "7:5"> And Noah did according unto all that the LORD commanded him. 
+	</verse><verse number = "7:4"> For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and <god characterization="wrathful">every living substance that I have made will I destroy from off the face of the earth.</god> 
+	</verse><verse number = "7:5"> And Noah did according unto all that <god characterization="other-neutral">the LORD commanded him</god>. 
 	</verse><verse number = "7:6"> And Noah [was] six hundred years old when the flood of waters was upon the earth. 
 	</verse><verse number = "7:7"> And Noah went in, and his sons, and his wife, and his sons’ wives with him, into the ark, because of the waters of the flood. 
 	</verse><verse number = "7:8"> Of clean beasts, and of beasts that [are] not clean, and of fowls, and of every thing that creepeth upon the earth, 
@@ -77,7 +78,7 @@
 	</verse><verse number = "7:13"> In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah’s wife, and the three wives of his sons with them, into the ark; 
 	</verse><verse number = "7:14"> They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after his kind, and every fowl after his kind, every bird of every sort. 
 	</verse><verse number = "7:15"> And they went in unto Noah into the ark, two and two of all flesh, wherein [is] the breath of life. 
-	</verse><verse number = "7:16"> And they that went in, went in male and female of all flesh, as God had commanded him: and the LORD shut him in. 
+	</verse><verse number = "7:16"> And they that went in, went in male and female of all flesh, as God had commanded him: <god characterization="other-positive">and the LORD shut him in.</god> 
 	</verse><verse number = "7:17"> And the flood was forty days upon the earth; and the waters increased, and bare up the ark, and it was lift up above the earth. 
 	</verse><verse number = "7:18"> And the waters prevailed, and were increased greatly upon the earth; and the ark went upon the face of the waters. 
 	</verse><verse number = "7:19"> And the waters prevailed exceedingly upon the earth; and all the high hills, that [were] under the whole heaven, were covered. 
@@ -86,7 +87,7 @@
 	</verse><verse number = "7:22"> All in whose nostrils [was] the breath of life, of all that [was] in the dry [land,] died. 
 	</verse><verse number = "7:23"> And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and Noah only remained [alive,] and they that [were] with him in the ark. 
 	</verse><verse number = "7:24"> And the waters prevailed upon the earth an hundred and fifty days. 
-	</verse><verse number = "8:1"> And God remembered Noah, and every living thing, and all the cattle that [was] with him in the ark: and God made a wind to pass over the earth, and the waters asswaged; 
+	</verse><verse number = "8:1"> <god characterization="loving">And God remembered Noah, and every living thing, and all the cattle that [was] with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;</god>
 	</verse><verse number = "8:2"> The fountains also of the deep and the windows ofheaven were stopped, and the rain from heaven was restrained; 
 	</verse><verse number = "8:3"> And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated. 
 	</verse><verse number = "8:4"> And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat. 
@@ -100,47 +101,37 @@
 	</verse><verse number = "8:12"> And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more. 
 	</verse><verse number = "8:13"> And it came to pass in the six hundredth and first year, in the first [month,] the first [day] of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry. 
 	</verse><verse number = "8:14"> And in the second month, on the seven and twentieth day of the month, was the earth dried. 
-	</verse><verse number = "8:15"> And God spake unto Noah, saying, 
+	</verse><verse number = "8:15"> <god characterization="other-positive">And God spake unto Noah</god>, saying, 
 	</verse><verse number = "8:16"> Go forth of the ark, thou, and thy wife, and thy sons, and thy sons’ wives with thee. 
 	</verse><verse number = "8:17"> Bring forth with thee every living thing that [is] with thee, of all flesh, [both] of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth. 
 	</verse><verse number = "8:18"> And Noah went forth, and his sons, and his wife, and his sons’ wives with him: 
 	</verse><verse number = "8:19"> Every beast, everycreeping thing, and every fowl, [and] whatsoever creepeth upon the earth, after their kinds, went forth out of the ark. 
-	</verse><verse number = "8:20"> And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar. 
-	</verse><verse number = "8:21"> And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart [is] evil from his youth; neither will I again smite any more every thing living, as I have done. 
+	</verse><verse number = "8:20"> <worship recipient="god">And Noah builded an altar unto the LORD; </worship>and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar. 
+	</verse><verse number = "8:21"> And the <god characterization="loving">LORD smelled a sweet savour;and the LORD said in his heart</god>, <blessings>I will not again curse the ground any more for man’s sake; for the imagination of man’s heart [is] evil from his youth; neither will I again smite any more every thing living, as I have done.</blessings> 
 	</verse><verse number = "8:22"> While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease. 
-	</verse><verse number = "9:1"> And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth. 
-	</verse><verse number = "9:2"> And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth [upon] the earth, and upon all the fishes of the sea; into your hand are they delivered. 
-	</verse><verse number = "9:3"> Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things. 
+	</verse><verse number = "9:1"> And <god characterization="other-positive">God blessed Noah and his sons</god>, and said unto them, <blessings>Be fruitful, and multiply, and replenish the earth. </blessings>
+	</verse><verse number = "9:2"> <blessings>And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth [upon] the earth, and upon all the fishes of the sea; into your hand are they delivered.</blessings> 
+	</verse><verse number = "9:3"> <blessings>Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things. </blessings>
 	</verse><verse number = "9:4"> But flesh with the life thereof, [which is] the blood thereof, shall ye not eat. 
 	</verse><verse number = "9:5"> And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man’s brother will I require the life of man. 
 	</verse><verse number = "9:6"> Whoso sheddeth man’s blood, by man shall his blood be shed: for in the image of God made he man. 
-	</verse><verse number = "9:7"> And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein. 
-	</verse><verse number = "9:8"> And God spake unto Noah, and to his sons with him, saying, 
+	</verse><verse number = "9:7"> <blessings>And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein. </blessings>
+	</verse><verse number = "9:8"> And <god characterization="other-positive">God spake unto Noah</god>, and to his sons with him, saying, 
 	</verse><verse number = "9:9"> And I, behold, I establish my covenant with you, and with your seed after you; 
 	</verse><verse number = "9:10"> And with every living creature that [is] with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth. 
-	</verse><verse number = "9:11"> And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth. 
-	</verse><verse number = "9:12"> And God said, This [is] the token of the covenant which I make between me and you and every living creature that [is] with you,for perpetual generations: 
-	</verse><verse number = "9:13"> I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth. 
-	</verse><verse number = "9:14"> And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud: 
-	</verse><verse number = "9:15"> And I will remember my covenant, which [is] between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh. 
-	</verse><verse number = "9:16"> And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that [is] upon the earth. 
-	</verse><verse number = "9:17"> And God said unto Noah, This [is] the token of the covenant, which I have established between me and all flesh that [is] upon the earth. 
+	</verse><verse number = "9:11"> And I will establish my covenant with you; <blessings>neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth. </blessings>
+	</verse><verse number = "9:12"> And <god characterization="other-positive">God said, This [is] the token of the covenant which I make between me and you and every living creature that [is] with you,for perpetual generations: </god>
+	</verse><verse number = "9:13"> <god characterization="other-positive">I</god> do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth. 
+	</verse><verse number = "9:14"> And it shall come to pass, when <god characterization="other-positive">I</god> bring a cloud over the earth, that the bow shall be seen in the cloud: 
+	</verse><verse number = "9:15"> And <god characterization="other-positive">I will remember my covenant</god>, which [is] between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh. 
+	</verse><verse number = "9:16"> And the bow shall be in the cloud; and <god characterization="other-positive">I will look upon it, that I may remember the everlasting covenant</god> between God and every living creature of all flesh that [is] upon the earth. 
+	</verse><verse number = "9:17"> And <god characterization="other-positive">God said unto Noah</god>, This [is] the token of the covenant, which I have established between me and all flesh that [is] upon the earth. 
 	</verse><verse number = "9:18"> And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham is the father of Canaan. 
-	</verse><verse number = "9:19"> These [are] the three sons of Noah: and of them was the whole earth overspread. 
-	</verse><verse number = "9:20"> And Noah began [to be] an husbandman, and he planted a vineyard: 
-	</verse><verse number = "9:21"> And he drank of the wine, and was drunken; and he was uncovered within his tent. 
-	</verse><verse number = "9:22"> And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without. 
-	</verse><verse number = "9:23"> And Shem and Japheth took a garment, and laid [it] upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces [were] backward, and they saw not their father’s nakedness. 
-	</verse><verse number = "9:24"> And Noah awoke from his wine, and knew what his younger son had done unto him. 
-	</verse><verse number = "9:25"> And he said, Cursed [be] Canaan; a servant of servants shall he be unto his brethren. 
-	</verse><verse number = "9:26"> And he said, Blessed [be] the LORD God of Shem; and Canaan shall be his servant. 
-	</verse><verse number = "9:27"> God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant. 
-	</verse><verse number = "9:28"> And Noah lived after the flood three hundred and fifty years. 
-	</verse><verse number = "9:29"> And all the days of Noah were nine hundred and fifty years: and he died. </verse></book>
+	</verse><verse number = "9:19"> These [are] the three sons of Noah: and of them was the whole earth overspread. </verse></book>	
 </story>
 
-<story>Moses
-<book name="Exodus"> 
+<story>Moses <!-- ip --> 
+<book name="Exodus"> <!-- done --> 
 	<verse number = "2:1"> And there went a man of the house of Levi, and took [to wife] a daughter of Levi. 
 	</verse><verse number = "2:2"> And the woman conceived, and bare a son: and when she saw him that he [was a] goodly [child,] she hid him three months. 
 	</verse><verse number = "2:3"> And when she could not longer hide him, she took for him an ark of bulrushes, and daubed it with slime and withpitch, and put the child therein; and she laid [it] in the flags by the river’s brink. 
@@ -164,51 +155,51 @@
 	</verse><verse number = "2:21"> And Moses was content to dwell with the man: and he gave Moses Zipporah his daughter. 
 	</verse><verse number = "2:22"> And she bare [him] a son, and he called his name Gershom: for he said, I have been a stranger in a strange land. 
 	</verse><verse number = "2:23"> And it came to pass in process of time, that the king of Egypt died: and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage. 
-	</verse><verse number = "2:24"> And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob. 
-	</verse><verse number = "2:25"> And God looked upon the children of Israel, and God had respect unto [them. ] </verse></book> Exodus 3:1-6 
-<book name="Exodus"> 
+	</verse><verse number = "2:24"> And <god characterization="other-neutral">God</god> heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob. 
+	</verse><verse number = "2:25"> And <god characterization="loving">God looked upon the children of Israel,</god> and God had <respect recipient="others">respect</respect> unto [them.] </verse></book> Exodus 3:1-6 
+<book name="Exodus"> <!-- done --> 
 	<verse number = "3:1"> Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, [even] to Horeb. 
 	</verse><verse number = "3:2"> And the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush [was] not consumed. 
 	</verse><verse number = "3:3"> And Moses said, I will now turn aside, and see this great sight, why the bush is not burnt. 
-	</verse><verse number = "3:4"> And when the LORD saw that he turned aside to see, God called unto him out of the midst of the bush, and said, Moses, Moses. And he said, Here [am] I. 
+	</verse><verse number = "3:4"> And when the LORD saw that he turned aside to see, <god characterization="powerful">God</god> called unto him out of the midst of the bush, and said, Moses, Moses. And he said, Here [am] I. 
 	</verse><verse number = "3:5"> And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest is holy ground. 
-	</verse><verse number = "3:6"> Moreover he said, I [am] the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God. </verse></book> Exodus 18 
-<book name="Exodus"> 
-	<verse number = "18:1"> When Jethro, the priest of Midian, Moses’ father in law, heard of all that God had done for Moses, and for Israel his people, [and] that the LORD had brought Israel out of Egypt; 
+	</verse><verse number = "3:6"> Moreover he said, I [am] the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. <god descrip="fear of">And Moses hid his face; for he was afraid to look upon God</god>. </verse></book> Exodus 18 
+<book name="Exodus"> <!-- done --> 
+	<verse number = "18:1"> When Jethro, the priest of Midian, Moses’ father in law, heard of all that <god characterization="other-positive">God</god> had done for Moses, and for Israel his people, [and] that the LORD had brought Israel out of Egypt; 
 	</verse><verse number = "18:2"> Then Jethro, Moses’ father in law, took Zipporah, Moses’ wife, after he had sent her back, 
 	</verse><verse number = "18:3"> And her two sons; of whichthe name of the one [was] Gershom; for he said, I have been an alien in a strange land: 
 	</verse><verse number = "18:4"> And the name of the other [was] Eliezer; for the God of my father, [said he, was] mine help, and delivered me from the sword of Pharaoh: 
 	</verse><verse number = "18:5"> And Jethro, Moses’ father in law, came with his sons and his wife unto Moses into the wilderness, where he encamped at the mount of God: 
 	</verse><verse number = "18:6"> And he said unto Moses, I thy father in law Jethro am come unto thee, and thy wife, and her two sons with her. 
 	</verse><verse number = "18:7"> And Moses went out to meet his father in law, and did obeisance, and kissed him; and they asked each other of [their] welfare; and they came into the tent. 
-	</verse><verse number = "18:8"> And Moses told his father in law all that the LORD had done unto Pharaoh and to the Egyptians for Israel’s sake, [and] all the travail that had come upon them by the way, and [how] the LORD delivered them. 
+	</verse><verse number = "18:8"> And Moses told his father in law all that the <god characterization="other-positive">LORD</god> had done unto Pharaoh and to the Egyptians for Israel’s sake, [and] all the travail that had come upon them by the way, and [how] the LORD delivered them. 
 	</verse><verse number = "18:9"> And Jethro rejoiced for all the goodness which the LORD had done to Israel, whom he had delivered out of the hand of the Egyptians. 
-	</verse><verse number = "18:10"> And Jethro said, Blessed [be] the LORD, who hath delivered you out of the hand of the Egyptians, and out of the hand of Pharaoh, who hath delivered the people from under the hand of the Egyptians. 
-	</verse><verse number = "18:11"> Now I know that the LORD [is] greater than all gods: for in the thing wherein they dealt proudly [he was] above them. 
-	</verse><verse number = "18:12"> And Jethro, Moses’ father in law, took a burnt offering and sacrifices for God: and Aaron came, and all the elders of Israel, to eat bread with Moses’ father in law before God. 
+	</verse><verse number = "18:10"> And Jethro said, <blessings>Blessed</blessings> [be] the LORD, who hath delivered you out of the hand of the Egyptians, and out of the hand of Pharaoh, who hath delivered the people from under the hand of the Egyptians. 
+	</verse><verse number = "18:11"> Now I know that the <god characterization="powerful">LORD</god> [is] greater than all gods: for in the thing wherein they dealt proudly [he was] above them. 
+	</verse><verse number = "18:12"> And Jethro, Moses’ father in law, <worship recipient="god">took a burnt offering and sacrifices for God:</worship> and Aaron came, and all the elders of Israel, to eat bread with Moses’ father in law before God. 
 	</verse><verse number = "18:13"> And it came to pass on the morrow, that Moses sat to judge the people: and the people stood by Moses from the morning unto the evening. 
 	</verse><verse number = "18:14"> And when Moses’ father in law saw all that he did to the people, he said, What [is] this thing that thou doest to the people? why sittest thou thyself alone, and all the people stand by thee from morning unto even? 
-	</verse><verse number = "18:15"> And Moses said unto his father in law, Because the people come unto me to enquire of God: 
+	</verse><verse number = "18:15"> And Moses said unto his father in law, Because the people come unto me to enquire of <god characterization="other-neutral">God</god>: 
 	</verse><verse number = "18:16"> When they have a matter, they come unto me; and I judge between one and another, and I do make [them] know the statutes of God, and his laws. 
 	</verse><verse number = "18:17"> And Moses’ father in law said unto him, The thing that thou doest [is] not good. 
 	</verse><verse number = "18:18"> Thou wilt surely wear away, both thou, and this people that [is] with thee: for this thing [is] too heavy for thee; thou art not able to perform it thyself alone. 
-	</verse><verse number = "18:19"> Hearken now unto my voice, I will give thee counsel, and God shall be with thee: Be thou for the people to God-ward, that thou mayest bring the causes unto God: 
+	</verse><verse number = "18:19"> Hearken now unto my voice, I will give thee counsel, and <god characterization="loving">God shall be with thee:</god> Be thou for the people to God-ward, that thou mayest bring the causes unto God: 
 	</verse><verse number = "18:20"> And thou shalt teach them ordinances and laws, and shalt shew them the way wherein they must walk, and the work that they must do. 
-	</verse><verse number = "18:21"> Moreover thou shalt provide out of all the people able men, such as fear God, men of truth, hating covetousness; and place [such] over them, [to be] rulers of thousands, [and] rulers of hundreds, rulers of fifties, and rulers of tens: 
+	</verse><verse number = "18:21"> Moreover thou shalt provide out of <god descrip = "fear of">all the people able men, such as fear God, men of truth,</god> hating covetousness; and place [such] over them, [to be] rulers of thousands, [and] rulers of hundreds, rulers of fifties, and rulers of tens: 
 	</verse><verse number = "18:22"> And let them judge the people at all seasons: and it shall be, [that] every great matter they shall bring unto thee, but every small matter they shall judge: so shall it be easier for thyself, and they shall bear [the burden] with thee. 
-	</verse><verse number = "18:23"> If thou shalt do this thing, and God command thee [so,] then thou shalt be able to endure, and all this people shall also go to their place in peace. 
+	</verse><verse number = "18:23"> If thou shalt do this thing, and God command thee [so,] then <blessings>thou shalt be able to endure, and all this people shall also go to their place in peace.</blessings> 
 	</verse><verse number = "18:24"> So Moses hearkened to the voice of his father in law, and did all that he had said. 
 	</verse><verse number = "18:25"> And Moses chose able men out of all Israel, and made them heads over the people, rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens. 
 	</verse><verse number = "18:26"> And they judged the people at all seasons: the hard causes they brought unto Moses, but every small matter they judged themselves. 
 	</verse><verse number = "18:27"> And Moses let his father in law depart; and he went his way into his own land. </verse></book> Exodus 19 
-<book name="Exodus"> 
+<book name="Exodus"> <!-- done --> 
 	<verse number = "19:1"> In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they [into] the wilderness of Sinai. 
 	</verse><verse number = "19:2"> For they were departed from Rephidim, and were come [to] the desert of Sinai, and had pitched in the wilderness; and there Israel camped before the mount. 
-	</verse><verse number = "19:3"> And Moses went up unto God, and the LORD called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children ofIsrael; 
+	</verse><verse number = "19:3"> And Moses went up unto <god characterization="other-neutral">God, and the LORD called unto him out of the mountain</god>, saying, Thus shalt thou say to the house of Jacob, and tell the children ofIsrael; 
 	</verse><verse number = "19:4"> Ye have seen what I did unto the Egyptians, and [how] I bare you on eagles’ wings, and brought you unto myself. 
-	</verse><verse number = "19:5"> Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth [is] mine: 
+	</verse><verse number = "19:5"> <god characterization="powerful">Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth [is] mine: </god>
 	</verse><verse number = "19:6"> And ye shall be unto me a kingdom of priests, and an holy nation. These [are] the words which thou shalt speak unto the children of Israel. 
-	</verse><verse number = "19:7"> And Moses came and called for the elders of the people, and laid before their faces all these words which the LORD commanded him. 
+	</verse><verse number = "19:7"> And Moses came and called for the elders of the people, and laid before their faces all these words which the <god characterization="powerful">LORD commanded him</god>. 
 	</verse><verse number = "19:8"> And all the people answered together, and said, All that the LORD hath spoken we will do. And Moses returned the words of the people unto the LORD. 
 	</verse><verse number = "19:9"> And the LORD said unto Moses, Lo, I come unto thee in a thick cloud, that the people may hear when I speak with thee, and believe thee for ever. And Moses told the words of the people unto the LORD. 
 	</verse><verse number = "19:10"> And the LORD said unto Moses, Go unto the people, and sanctify them to day and to morrow, and let them wash their clothes, 
@@ -217,18 +208,18 @@
 	</verse><verse number = "19:13"> There shall not an hand touch it, but he shall surely be stoned, or shot through; whether [it be] beast or man, it shall not live: when the trumpet soundeth long, they shall come up to the mount. 
 	</verse><verse number = "19:14"> And Moses went down from the mount unto the people, and sanctified the people; and they washed their clothes. 
 	</verse><verse number = "19:15"> And he said unto the people, Be ready against the third day: come not at [your] wives. 
-	</verse><verse number = "19:16"> And it came to pass on the third day in the morning, that there were thunders and lightnings, and a thick cloud upon the mount, and the voice of the trumpet exceeding loud; so that all the people that [was] in the camp trembled. 
+	</verse><verse number = "19:16"> And it came to pass on the third day in the morning, that there were thunders and lightnings, <god descrip="fear of">and a thick cloud upon the mount, and the voice of the trumpet exceeding loud; so that all the people that [was] in the camp trembled.</god> 
 	</verse><verse number = "19:17"> And Moses brought forth the people out of the camp to meet with God; and they stood at the nether part of the mount. 
-	</verse><verse number = "19:18"> And mount Sinai was altogether on a smoke, because theLORD descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly. 
+	</verse><verse number = "19:18"> <god characterization="powerful">And mount Sinai was altogether on a smoke, because theLORD descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly. </god>
 	</verse><verse number = "19:19"> And when the voice of the trumpet sounded long, and waxed louder and louder, Moses spake, and God answered him by a voice. 
 	</verse><verse number = "19:20"> And the LORD came down upon mount Sinai, on the top of the mount: and the LORD called Moses [up] to the top of the mount; and Moses went up. 
-	</verse><verse number = "19:21"> And the LORD said unto Moses, Go down, charge the people, lest they break through unto the LORD to gaze, and many of them perish. 
+	</verse><verse number = "19:21"> <god characterization="wrathful">And the LORD said unto Moses, Go down, charge the people, lest they break through unto the LORD to gaze, and many of them perish. </god>
 	</verse><verse number = "19:22"> And let the priests also, which come near to the LORD, sanctify themselves, lest the LORD break forth upon them. 
 	</verse><verse number = "19:23"> And Moses said unto the LORD, The people cannot come up to mount Sinai: for thou chargedst us, saying, Set bounds about the mount, and sanctify it. 
 	</verse><verse number = "19:24"> And the LORD said unto him, Away, get thee down, and thou shalt come up, thou, and Aaron with thee: but let not the priests and the people break through to come up unto the LORD, lest he break forth upon them. 
 	</verse><verse number = "19:25"> So Moses went down unto the people, and spake unto them. </verse></book> Exodus 33 
-<book name="Exodus"> 
-	<verse number = "33:1"> And the LORD said unto Moses, Depart, [and] go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it: 
+<book name="Exodus"> <!-- done --> 
+	<verse number = "33:1"> And the LORD said unto Moses, Depart, [and] go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying,<blessings> Unto thy seed will I give it:</blessings> 
 	</verse><verse number = "33:2"> And I will send an angel before thee; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite: 
 	</verse><verse number = "33:3"> Unto a land flowing with milk and honey: for I will not go up in the midst of thee; for thou [art] a stiffnecked people: lest I consume thee in the way. 
 	</verse><verse number = "33:4"> And when the people heard these evil tidings, they mourned: and no man did put on him his ornaments. 
@@ -237,23 +228,23 @@
 	</verse><verse number = "33:7"> And Moses took the tabernacle, and pitched it without the camp, afar off from the camp, andcalled it the Tabernacle of the congregation. And it came to pass, [that] every one which sought the LORD went out unto the tabernacle of the congregation, which [was] without the camp. 
 	</verse><verse number = "33:8"> And it came to pass, when Moses went out unto the tabernacle, [that] all the people rose up, and stood every man [at] his tent door, and looked after Moses, until he was gone into the tabernacle. 
 	</verse><verse number = "33:9"> And it came to pass, as Moses entered into the tabernacle, the cloudy pillar descended, and stood [at] the door of the tabernacle, and [the] LORD talked with Moses. 
-	</verse><verse number = "33:10"> And all the people saw the cloudy pillar stand [at] the tabernacle door: and all the people rose up and worshipped, every man [in] his tent door. 
-	</verse><verse number = "33:11"> And the LORD spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle. 
-	</verse><verse number = "33:12"> And Moses said unto the LORD, See, thou sayest unto me, Bring up this people: and thou hast not let me know whom thou wilt send with me. Yet thou hast said, I know thee by name, and thou hast also found grace in my sight. 
+	</verse><verse number = "33:10"> And all the people saw the cloudy pillar stand [at] the tabernacle door: and <worship recipient="god">all the people rose up and worshipped, every man [in] his tent door. </worship>
+	</verse><verse number = "33:11"> <god characterization="other-positive">And the LORD spake unto Moses face to face, as a man speaketh unto his friend.</god> And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle. 
+	</verse><verse number = "33:12"> And Moses said unto the LORD, See, thou sayest unto me, Bring up this people: and thou hast not let me know whom thou wilt send with me. Yet thou hast said, I know thee by name, and <god characterization="loving">thou hast also found grace in my sight.</god>
 	</verse><verse number = "33:13"> Now therefore, I pray thee, if I have found grace in thy sight, shew me now thy way, that I may know thee, that I may find grace in thy sight: and consider that this nation [is] thy people. 
 	</verse><verse number = "33:14"> And he said, My presence shall go [with thee,] and I will give thee rest. 
 	</verse><verse number = "33:15"> And he said unto him, If thy presence go not [with me,] carry us not up hence. 
 	</verse><verse number = "33:16"> For wherein shall it be known here that I and thy people have found grace in thy sight? [is it] not in that thou goest with us? so shall we be separated, I and thy people, from all the people that [are] upon the face of the earth. 
-	</verse><verse number = "33:17"> And the LORD said unto Moses, I will do this thing also that thou hast spoken: for thou hast found grace in my sight, and I know thee by name. 
+	</verse><verse number = "33:17"> <god characterization="loving">And the LORD said unto Moses, I will do this thing also that thou hast spoken: for thou hast found grace in my sight, and I know thee by name.</god> 
 	</verse><verse number = "33:18"> And he said, I beseech thee, shew me thy glory. 
 	</verse><verse number = "33:19"> And he said, I will make all my goodness pass before thee, and I will proclaim the name of the LORD before thee; and will be gracious to whom I will be gracious, and will shewmercy on whom I will shew mercy. 
-	</verse><verse number = "33:20"> And he said, Thou canst not see my face: for there shall no man see me, and live. 
+	</verse><verse number = "33:20"> <god characterization="powerful">And he said, Thou canst not see my face: for there shall no man see me, and live. </god>
 	</verse><verse number = "33:21"> And the LORD said, Behold, [there is] a place by me, and thou shalt stand upon a rock: 
 	</verse><verse number = "33:22"> And it shall come to pass, while my glory passeth by, that I will put thee in a clift of the rock, and will cover thee with my hand while I pass by: 
 	</verse><verse number = "33:23"> And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen. </verse></book>
 </story>
 
-<story>Abraham <!-- ip --> 
+<story>Abraham <!-- done --> 
 <book name="Genesis"> <!-- done -->
 	<verse number = "12:1"> Now the <god characterization="other-positive">LORD</god> had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee: 
 	</verse><verse number = "12:2"> And <god characterization="other-positive">I</god> <blessings>will make of thee a great nation</blessings>, and <god characterization="other-positive">I</god> <blessings>will bless thee, and make thy name great; and thou shalt be a blessing:</blessings> 
@@ -303,38 +294,21 @@
 	</verse><verse number = "17:25"> And Ishmael his son [was] thirteen years old, when he was circumcised in the flesh of his foreskin. 
 	</verse><verse number = "17:26"> In the selfsame day was Abraham circumcised, and Ishmael his son. 
 	</verse><verse number = "17:27"> And all the men of his house, born in the house, and bought with money of the stranger, were circumcised with him. </verse></book> Genesis 22:1-14
-<book name="Genesis"> <!-- ip --> 
-	<verse number = "22:1"> And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, [here] I [am. ]
-	</verse><verse number = "22:2"> And he said, Take now thy son, thine only [son] Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of. 
-	</verse><verse number = "22:3"> And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him. 
+<book name="Genesis"> <!-- done --> 
+	<verse number = "22:1"> And it came to pass after these things, that <god characterization = "other-negative">God</god> did tempt Abraham, and said unto him, Abraham: and he said, Behold, [here] I [am. ]
+	</verse><verse number = "22:2"> And he said, Take now thy son, <love recipient = "others">thine only [son] Isaac, whom thou lovest</love>, and get thee into the land of Moriah; and <worship recipient = "god">offer him there for a burnt offering</worship> upon one of the mountains which I will tell thee of. 
+	</verse><verse number = "22:3"> And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which <god characterization="other-neutral">God had told him</god>. 
 	</verse><verse number = "22:4"> Then on the third day Abraham lifted up his eyes, and saw the place afar off. 
 	</verse><verse number = "22:5"> And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you, 
 	</verse><verse number = "22:6"> And Abraham took the wood of the burnt offering, and laid [it] upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together. 
 	</verse><verse number = "22:7"> And Isaac spake unto Abraham his father, and said, My father: and he said, Here [am] I, my son. And he said, Behold the fire and the wood: but where [is] the lamb for a burnt offering? 
-	</verse><verse number = "22:8"> And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together. 
-	</verse><verse number = "22:9"> And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood. 
-	</verse><verse number = "22:10"> And Abraham stretched forth his hand, and took the knife to slay his son. 
+	</verse><verse number = "22:8"> And Abraham said, My son, <god characterization = "other-positive">God will provide himself a lamb for a burnt offering</god>: so they went both of them together. 
+	</verse><verse number = "22:9"> And they came to the place which <god characterization="other-neutral">God had told him of</god>; and <worship recipient = "god">Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood.</worship> 
+	</verse><verse number = "22:10"> <worship recipient = "god">And Abraham stretched forth his hand, and took the knife to slay his son.</worship>
 	</verse><verse number = "22:11"> And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here [am] I. 
-	</verse><verse number = "22:12"> And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only [son] from me. 
-	</verse><verse number = "22:13"> And Abraham lifted up his eyes, and looked, and behold behind [him] a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son. 
-	</verse><verse number = "22:14"> And Abraham called the name of that place Jehovah-jireh: as it is said [to] this day, In the mount of the LORD it shall be seen. </verse></book></story>
+	</verse><verse number = "22:12"> And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now <god descrip = "fear of">I know that thou fearest God</god>, seeing thou hast not withheld thy son, thine only [son] from me. 
+	</verse><verse number = "22:13"> And Abraham lifted up his eyes, and looked, and behold behind [him] a ram caught in a thicket by his horns: and <worship recipient = "god">Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son. </worship>
+	</verse><verse number = "22:14"> And Abraham called the name of that place <god characterization="other-positive">Jehovah-jireh: as it is said [to] this day, In the mount of the LORD it shall be seen.</god> </verse></book></story>
 </doc>
-
-
-<!-- outline --> 
-	<!-- creation (done)-->
-		<!-- Genesis 1:1 - 2:3 (done)-->
-	<!-- noah and the flood --> 
-		<!-- Genesis 6:1-9:29 --> 
-	<!-- moses --> 
-		<!-- Exodus 2:1-2:25 --> 
-		<!-- Exodus 3:1-3:6 --> 
-		<!-- Exodus 18:1-18:27 --> 
-		<!-- Exodus 19:1-19:25 --> 
-		<!-- Exodus 33:1-33:23 --> 
-	<!-- abraham (ip) --> 
-		<!-- Genesis 12:1-12:20 (done)-->
-		<!-- Genesis 17:1-17:27 (done)-->
-		<!-- Gensis 22:1- 22:14 --> 
 
 

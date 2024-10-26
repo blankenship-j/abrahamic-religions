@@ -3,85 +3,85 @@
 <doc name = "Christian Scripture">    
 <story>Jesus 
 <book name="Luke">         
-	<verse number = "1:1"> Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,        
+	<verse number = "1:1"> Forasmuch as many have taken in hand to <worship recipient="god">set forth in order a declaration of those things which are most surely believed among us</worship>,        
 	</verse><verse number = "1:2"> Even as they delivered them unto us, which from the beginning were eyewitnesses, and ministers of the word; 
 	</verse><verse number = "1:3"> It seemed good to me also, having had perfect understanding of all things from the very first, to write unto thee in order, most excellent Theophilus,        
-	</verse><verse number = "1:4"> That thou mightest know the certainty of those things, wherein thou hast been instructed. 
+	</verse><verse number = "1:4"> <god characterization="powerful">That thou mightest know the certainty of those things</god>, wherein thou hast been instructed. 
 	</verse><verse number = "1:5"> There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife [was] of the daughters of Aaron, and her name [was] Elisabeth. 
 	</verse><verse number = "1:6"> And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless. 
 	</verse><verse number = "1:7"> And they had no child, because that Elisabeth was barren, and they both were [now] well stricken in years. 
 	</verse><verse number = "1:8"> And it came to pass, that while he executed the priest’s office before God in the order of his course,        
 	</verse><verse number = "1:9"> According to the custom of the priest’s office, his lot was to burn incense when he went into the temple of the Lord. 
-	</verse><verse number = "1:10"> And the whole multitude of the people were praying without at the time of incense. 
+	</verse><verse number = "1:10"> And the whole <worship recipient="god">multitude of the people were praying without at the time of incense.</worship> 
 	</verse><verse number = "1:11"> And there appeared unto him an angel of the Lord standing on the right side of the altar of incense. 
 	</verse><verse number = "1:12"> And when Zacharias saw [him,] he was troubled, and fear fell upon him. 
-	</verse><verse number = "1:13"> But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John. 
+	</verse><verse number = "1:13"> But the angel <god characterization="loving">said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John</god>. 
 	</verse><verse number = "1:14"> And thou shalt have joy and gladness; and many shall rejoice at his birth. 
-	</verse><verse number = "1:15"> For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother’s womb. 
-	</verse><verse number = "1:16"> And many of the children of Israel shall he turn to the Lord their God. 
-	</verse><verse number = "1:17"> And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord. 
+	</verse><verse number = "1:15"> <god characterization="loving">For he shall be great in the sight of the Lord</god>, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother’s womb. 
+	</verse><verse number = "1:16"> <love recipient="god">And many of the children of Israel shall he turn to the Lord their God.</love> 
+	</verse><verse number = "1:17"> And he shall go before him <respect recipient="god">in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord.</respect> 
 	</verse><verse number = "1:18"> And Zacharias said unto the angel, Whereby shall I know this? for I am an old man, and my wife well stricken in years. 
 	</verse><verse number = "1:19"> And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings. 
-	</verse><verse number = "1:20"> And, behold, thou shalt be dumb, and not able to speak, until the day that these things shall be performed, because thou believest not my words, which shall be fulfilled in their season. 
+	</verse><verse number = "1:20"> <god descrip="fear of">And, behold, thou shalt be dumb, and not able to speak, until the day that these things shall be performed, because thou believest not my words, which shall be fulfilled in their season.</god> 
 	</verse><verse number = "1:21"> And the people waited for Zacharias, and marvelled that he tarried so long in the temple. 
 	</verse><verse number = "1:22"> And when he came out, he could not speak unto them: and they perceived that he had seen a vision in the temple: for he beckoned unto them, and remained speechless. 
 	</verse><verse number = "1:23"> And it came to pass, that, as soon as the days of his ministration were accomplished, he departed to his own house. 
 	</verse><verse number = "1:24"> And after those days his wife Elisabeth conceived, and hid herself five months, saying, 
-	</verse><verse number = "1:25"> Thus hath the Lord dealt with me in the days wherein he looked on [me,] to take away my reproach among men. 
+	</verse><verse number = "1:25"> <love recipient="others">Thus hath the Lord dealt with me in the days wherein he looked on [me,] to take away my reproach among men</love>. 
 	</verse><verse number = "1:26"> And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth, 
 	</verse><verse number = "1:27"> To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin’s name [was] Mary. 
 	</verse><verse number = "1:28"> And the angel came in unto her, and said, Hail, [thou that art] highly favoured, the Lord [is] with thee: blessed [art] thou among women. 
 	</verse><verse number = "1:29"> And when she saw [him,] she was troubled at his saying, and cast in her mind what manner of salutation this should be.        
-	</verse><verse number = "1:30"> And the angel said unto her, Fear not, Mary: for thou hast found favour with God.        
+	</verse><verse number = "1:30"> And the angel said unto her, <god descrip="fear of">Fear not, Mary: for thou hast found favour with God</god>.        
 	</verse><verse number = "1:31"> And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS. 
-	</verse><verse number = "1:32"> He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David: 
-	</verse><verse number = "1:33"> And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end. 
+	</verse><verse number = "1:32"> <respect recipient="god">He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David</respect>: 
+	</verse><verse number = "1:33"> <god characterization="powerful">And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end</god>. 
 	</verse><verse number = "1:34"> Then said Mary unto the angel, How shall this be, seeing I know not a man? 
-	</verse><verse number = "1:35"> And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God. 
+	</verse><verse number = "1:35"> <respect recipient="god">And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God</respect>. 
 	</verse><verse number = "1:36"> And, behold, thy cousin Elisabeth, she hath also conceived a son in her old age: and this is the sixth month with her, who was called barren.        
-	</verse><verse number = "1:37"> For with God nothing shall be impossible. 
+	</verse><verse number = "1:37"> <god characterization="powerful">For with God nothing shall be impossible</god>. 
 	</verse><verse number = "1:38"> And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her. 
 	</verse><verse number = "1:39"> And Mary arose in those days, and went into the hill country with haste, into a city of Juda; 
 	</verse><verse number = "1:40"> And entered into the house of Zacharias, and saluted Elisabeth. 
-	</verse><verse number = "1:41"> And it came to pass, that, when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and Elisabeth was filled with the Holy Ghost: 
-	</verse><verse number = "1:42"> And she spake out with a loud voice, and said, Blessed [art] thou among women, and blessed [is] the fruit of thy womb.        
+	</verse><verse number = "1:41"> And it came to pass, that, <blessings>when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and Elisabeth was filled with the Holy Ghost</blessings>: 
+	</verse><verse number = "1:42"> And she spake out with a loud voice, and said, <worship recipient="others">Blessed [art] thou among women, and blessed [is] the fruit of thy womb</worship>.        
 	</verse><verse number = "1:43"> And whence [is] this to me, that the mother of my Lord should come to me? 
 	</verse><verse number = "1:44"> For, lo, as soon as the voice of thy salutation sounded in mine ears, the babe leaped in my womb for joy. 
-	</verse><verse number = "1:45"> And blessed [is] she that believed: for there shall be a performance of those things which were told her from the Lord. 
-	</verse><verse number = "1:46"> And Mary said, My soul doth magnify the Lord, 
-	</verse><verse number = "1:47"> And my spirit hath rejoiced in God my Saviour. 
-	</verse><verse number = "1:48"> For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed. 
-	</verse><verse number = "1:49"> For he that is mighty hath done to me great things; and holy [is] his name.        
-	</verse><verse number = "1:50"> And his mercy [is] on them that fear him from generation to generation. 
-	</verse><verse number = "1:51"> He hath shewed strength with his arm; he hath scattered the proud in the imagination of their hearts. 
-	</verse><verse number = "1:52"> He hath put down the mighty from [their] seats, and exalted them of low degree. 
-	</verse><verse number = "1:53"> He hath filled the hungry with good things; and the rich he hath sent empty away. 
-	</verse><verse number = "1:54"> He hath holpen his servant Israel, in remembrance of [his] mercy; 
+	</verse><verse number = "1:45"> <respect recipient="others">And blessed [is] she that believed: for there shall be a performance of those things which were told her from the Lord</respect>. 
+	</verse><verse number = "1:46"> And <worship recipient="god">Mary said, My soul doth magnify the Lord</worship>, 
+	</verse><verse number = "1:47"> And <love recipient="god">my spirit hath rejoiced in God my Saviour</love>. 
+	</verse><verse number = "1:48"> <blessings>For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed</blessings>. 
+	</verse><verse number = "1:49"> <worship recipient="god">For he that is mighty hath done to me great things; and holy [is] his name</worship>.        
+	</verse><verse number = "1:50"> <god characterization="merciful">And his mercy [is] on them that fear him from generation to generation</god>. 
+	</verse><verse number = "1:51"> <god characterization="powerful">He hath shewed strength with his arm; he hath scattered the proud in the imagination of their hearts</god>. 
+	</verse><verse number = "1:52"> <god characterization="powerful">He hath put down the mighty from [their] seats, and exalted them of low degree</god>. 
+	</verse><verse number = "1:53"> <god characterization="loving">He hath filled the hungry with good things; and the rich he hath sent empty away</god>. 
+	</verse><verse number = "1:54"> <god characterization="merciful">He hath holpen his servant Israel, in remembrance of [his] mercy</god>; 
 	</verse><verse number = "1:55"> As he spake to our fathers, to Abraham, and to his seed for ever. 
 	</verse><verse number = "1:56"> And Mary abode with her about three months, and returned to her own house. 
 	</verse><verse number = "1:57"> Now Elisabeth’s full time came that she should be delivered; and she brought forth a son. 
-	</verse><verse number = "1:58"> And her neighbours and her cousins heard how the Lord had shewed great mercy upon her; and they rejoiced with her.        
+	</verse><verse number = "1:58"> And her neighbours and <god characterization="merciful">her cousins heard how the Lord had shewed great mercy upon her; and they rejoiced with her</god>.        
 	</verse><verse number = "1:59"> And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father. 
 	</verse><verse number = "1:60"> And his mother answered and said, Not [so;] but he shall be called John. 
 	</verse><verse number = "1:61"> And they said unto her, There is none of thy kindred that is called by this name. 
 	</verse><verse number = "1:62"> And they made signs to his father, how he would have him called. 
 	</verse><verse number = "1:63"> And he asked for a writing table, and wrote, saying, His name is John. And they marvelled all. 
-	</verse><verse number = "1:64"> And his mouth was opened immediately, and his tongue [loosed,] and he spake, and praised God. 
-	</verse><verse number = "1:65"> And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judaea.        
+	</verse><verse number = "1:64"> <worship recipient="god">And his mouth was opened immediately, and his tongue [loosed,] and he spake, and praised God</worship>. 
+	</verse><verse number = "1:65"> <god descrip="fear of">And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judaea</god>.        
 	</verse><verse number = "1:66"> And all they that heard [them] laid [them] up in their hearts, saying, What manner of child shall this be! And the hand of the Lord was with him. 
 	</verse><verse number = "1:67"> And his father Zacharias was filled with the Holy Ghost, and prophesied, saying, 
-	</verse><verse number = "1:68"> Blessed [be] the Lord God of Israel; for he hath visited and redeemed his people, 
+	</verse><verse number = "1:68"> <worship recipient="god">Blessed [be] the Lord God of Israel; for he hath visited and redeemed his people</worship>, 
 	</verse><verse number = "1:69"> And hath raised up an horn of salvation for us in the house of his servant David; 
 	</verse><verse number = "1:70"> As he spake by the mouth of his holy prophets, which have been since the world began: 
-	</verse><verse number = "1:71"> That we should be saved from our enemies, and from the hand of all that hate us; 
-	</verse><verse number = "1:72"> To perform the mercy [promised] to our fathers, and to remember his holy covenant; 
+	</verse><verse number = "1:71"> <god characterization="merciful">That we should be saved from our enemies, and from the hand of all that hate us</god>; 
+	</verse><verse number = "1:72"> <god characterization="merciful">To perform the mercy [promised] to our fathers, and to remember his holy covenant</god>; 
 	</verse><verse number = "1:73"> The oath which he sware to our father Abraham, 
 	</verse><verse number = "1:74"> That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear, 
-	</verse><verse number = "1:75"> In holiness and righteousness before him, all the days of our life. 
-	</verse><verse number = "1:76"> And thou, child, shalt be called the prophet of the Highest: for thou shalt go before the face of the Lord to prepare his ways; 
-	</verse><verse number = "1:77"> To give knowledge of salvation unto his people by the remission of their sins, 
-	</verse><verse number = "1:78"> Through the tender mercy of our God; whereby the dayspring from on high hath visited us, 
-	</verse><verse number = "1:79"> To give light to them that sit in darkness and [in] the shadow of death, to guide our feet into the way of peace. 
+	</verse><verse number = "1:75"> <respect recipient="god">In holiness and righteousness before him, all the days of our life</respect>. 
+	</verse><verse number = "1:76"> <respect recipient="others">And thou, child, shalt be called the prophet of the Highest: for thou shalt go before the face of the Lord to prepare his ways</respect>; 
+	</verse><verse number = "1:77"> <worship recipient="god">To give knowledge of salvation unto his people by the remission of their sins</worship>, 
+	</verse><verse number = "1:78"> <god characterization="merciful">Through the tender mercy of our God; whereby the dayspring from on high hath visited us</god>, 
+	</verse><verse number = "1:79"> <god characterization="creator">To give light to them that sit in darkness and [in] the shadow of death, to guide our feet into the way of peace</god>. 
 	</verse><verse number = "1:80"> And the child grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel.</verse>     
 </book>    
 <book name="Luke"> 
@@ -93,38 +93,38 @@
 	</verse><verse number = "2:6"> And so it was, that, while they were there, the days were accomplished that she should be delivered. 
 	</verse><verse number = "2:7"> And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn. 
 	</verse><verse number = "2:8"> And there were in the same country shepherds abiding in the field, keeping watch over their flock by night. 
-	</verse><verse number = "2:9"> And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid. 
-	</verse><verse number = "2:10"> And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people. 
+	</verse><verse number = "2:9"> And, lo, <god descrip="fear of">the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid</god>. 
+	</verse><verse number = "2:10"> And the angel said unto them, <god characterization="loving">Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people</god>. 
 	</verse><verse number = "2:11"> For unto you is born this day in the city of David a Saviour, which is Christ the Lord. 
 	</verse><verse number = "2:12"> And this [shall be] a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger. 
-	</verse><verse number = "2:13"> And suddenly there was with the angel a multitude of the heavenly host praising God, and saying, 
-	</verse><verse number = "2:14"> Glory to God in the highest, and on earth peace, good will toward men. 
+	</verse><verse number = "2:13"> <worship recipient="god">And suddenly there was with the angel a multitude of the heavenly host praising God</worship>, and saying, 
+	</verse><verse number = "2:14"> <worship recipient="god">Glory to God in the highest, and on earth peace, good will toward men</worship>. 
 	</verse><verse number = "2:15"> And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us. 
 	</verse><verse number = "2:16"> And they came with haste, and found Mary, and Joseph, and the babe lying in a manger. 
 	</verse><verse number = "2:17"> And when they had seen [it,] they made known abroad the saying which was told them concerning this child.        
 	</verse><verse number = "2:18"> And all they that heard [it] wondered at those things which were told them by the shepherds. 
 	</verse><verse number = "2:19"> But Mary kept all these things, and pondered [them] in her heart. 
-	</verse><verse number = "2:20"> And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them. 
+	</verse><verse number = "2:20"> <worship recipient="god">And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them</worship>. 
 	</verse><verse number = "2:21"> And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb. 
-	</verse><verse number = "2:22"> And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present [him] to the Lord; 
+	</verse><verse number = "2:22"> <blessings>And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present [him] to the Lord</blessings>; 
 	</verse><verse number = "2:23"> (As it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord;) 
-	</verse><verse number = "2:24"> And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons. 
+	</verse><verse number = "2:24"> And <worship recipient="god">to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons</worship>. 
 	</verse><verse number = "2:25"> And, behold, there was a man in Jerusalem, whose name [was] Simeon; and the same man [was] just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him. 
-	</verse><verse number = "2:26"> And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord’s Christ. 
+	</verse><verse number = "2:26"> <blessings>And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord’s Christ</blessings>. 
 	</verse><verse number = "2:27"> And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law, 
-	</verse><verse number = "2:28"> Then took he him up in his arms, and blessed God, and said, 
-	</verse><verse number = "2:29"> Lord, now lettest thou thy servant depart in peace, according to thy word: 
-	</verse><verse number = "2:30"> For mine eyes have seen thy salvation, 
+	</verse><verse number = "2:28"> <worship recipient="god">Then took he him up in his arms, and blessed God</worship>, and said, 
+	</verse><verse number = "2:29"> <worship recipient="god">Lord, now lettest thou thy servant depart in peace, according to thy word</worship>: 
+	</verse><verse number = "2:30"> <worship recipient="god">For mine eyes have seen thy salvation</worship>, 
 	</verse><verse number = "2:31"> Which thou hast prepared before the face of all people; 
 	</verse><verse number = "2:32"> A light to lighten the Gentiles, and the glory of thy people Israel. 
 	</verse><verse number = "2:33"> And Joseph and his mother marvelled at those things which were spoken of him. 
-	</verse><verse number = "2:34"> And Simeon blessed them, and said unto Mary his mother, Behold, this [child] is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against; 
+	</verse><verse number = "2:34"> And Simeon blessed them, and said unto Mary his mother, <god characterization="powerful">Behold, this [child] is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against</god>; 
 	</verse><verse number = "2:35"> (Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed. 
 	</verse><verse number = "2:36"> And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity; 
-	</verse><verse number = "2:37"> And she [was] a widow of about fourscore and four years, which departed not from the temple, but served [God] with fastings and prayers night and day. 
-	</verse><verse number = "2:38"> And she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem. 
+	</verse><verse number = "2:37"> And she [was] a widow of about fourscore and four years, which departed not from the temple, but <worship recipient="god">served [God] with fastings and prayers night and day</worship>. 
+	</verse><verse number = "2:38"> And she coming in that instant <worship recipient="god">gave thanks likewise unto the Lord</worship>, and spake of him to all them that looked for redemption in Jerusalem. 
 	</verse><verse number = "2:39"> And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazareth. 
-	</verse><verse number = "2:40"> And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him. 
+	</verse><verse number = "2:40"> <god characterization="powerful">And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him</god>. 
 	</verse><verse number = "2:41"> Now his parents went to Jerusalem every year at the feast of the passover. 
 	</verse><verse number = "2:42"> And when he was twelve years old, they went up to Jerusalem after the custom of the feast. 
 	</verse><verse number = "2:43"> And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not [of it. ]
@@ -136,33 +136,33 @@
 	</verse><verse number = "2:49"> And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father’s business? 
 	</verse><verse number = "2:50"> And they understood not the saying which he spake unto them. 
 	</verse><verse number = "2:51"> And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart. 
-	</verse><verse number = "2:52"> And Jesus increased in wisdom and stature, and in favour with God and man.</verse>     
+	</verse><verse number = "2:52"> And <god characterization="powerful">Jesus increased in wisdom and stature, and in favour with God and man</god>.</verse>     
 </book>      
 <book name = "John">        
 	<verse number = "2:1"> And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there: 
 	</verse><verse number = "2:2"> And both Jesus was called, and his disciples, to the marriage. 
 	</verse><verse number = "2:3"> And when they wanted wine, the mother of Jesus saith unto him, They have no wine. 
 	</verse><verse number = "2:4"> Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come. 
-	</verse><verse number = "2:5"> His mother saith unto the servants, Whatsoever he saith unto you, do [it. ]
+	</verse><verse number = "2:5"> <respect recipient="god">His mother saith unto the servants, Whatsoever he saith unto you, do [it. ]</respect>
 	</verse><verse number = "2:6"> And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece. 
 	</verse><verse number = "2:7"> Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim. 
 	</verse><verse number = "2:8"> And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare [it. ]
 	</verse><verse number = "2:9"> When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom, 
 	</verse><verse number = "2:10"> And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: [but] thou hast kept the good wine until now. 
-	</verse><verse number = "2:11"> This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.</verse>    
+	</verse><verse number = "2:11"> <god characterization="powerful">This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him</god>.</verse>    
 </book>    
 <book name = "Matthew">        
 	<verse number = "3:13"> Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him. 
 	</verse><verse number = "3:14"> But John forbad him, saying, I have need to be baptized of thee, and comest thou to me? 
-	</verse><verse number = "3:15"> And Jesus answering said unto him, Suffer [it to be so] now: for thus it becometh us to fulfil all righteousness. Then he suffered him. 
-	</verse><verse number = "3:16"> And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him: 
-	</verse><verse number = "3:17"> And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.</verse>     
+	</verse><verse number = "3:15"> And Jesus answering said unto him, <blessings>Suffer [it to be so] now: for thus it becometh us to fulfil all righteousness. Then he suffered him</blessings>. 
+	</verse><verse number = "3:16"> And <heaven>Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him</heaven>: 
+	</verse><verse number = "3:17"> <god characterization="loving">And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased</god>.</verse>     
 </book>    
 <book name = "Luke">        
 	<verse number = "8:22"> Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth. 
 	</verse><verse number = "8:23"> But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled [with water,] and were in jeopardy. 
-	</verse><verse number = "8:24"> And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm. 
-	</verse><verse number = "8:25"> And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him.</verse>    
+	</verse><verse number = "8:24"> And they came to him, <respect recipient="god">and awoke him, saying, Master, master, we perish</respect>. <god characterization="powerful">Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm</god>. 
+	</verse><verse number = "8:25"> <god descrip="fear of">And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this!</god> for <respect recipient="god">he commandeth even the winds and water, and they obey him</respect>.</verse>    
 </book> 
 <book name = "John">        
 	<verse number = "19:1"> Then Pilate therefore took Jesus, and scourged [him. ]
@@ -171,11 +171,11 @@
 	</verse><verse number = "19:4"> Pilate therefore went forth again, and saith unto them, Behold, I bring him forth to you, that ye may know that I find no fault in him. 
 	</verse><verse number = "19:5"> Then came Jesus forth, wearing the crown of thorns, and the purple robe. And [Pilate] saith unto them, Behold the man!        
 	</verse><verse number = "19:6"> When the chief priests therefore and officers saw him, they cried out, saying, Crucify [him,] crucify [him.] Pilate saith unto them, Take ye him, and crucify [him:] for I find no fault in him. 
-	</verse><verse number = "19:7"> The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God.        
-	</verse><verse number = "19:8"> When Pilate therefore heard that saying, he was the more afraid; 
+	</verse><verse number = "19:7"> The Jews answered him, <respect recipient="god">We have a law, and by our law he ought to die, because he made himself the Son of God</respect>.        
+	</verse><verse number = "19:8"> When <god descrip="fear of">Pilate therefore heard that saying, he was the more afraid</god>; 
 	</verse><verse number = "19:9"> And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer. 
 	</verse><verse number = "19:10"> Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee?        
-	</verse><verse number = "19:11"> Jesus answered, Thou couldest have no power [at all] against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin.        
+	</verse><verse number = "19:11"> Jesus answered, <god characterization="powerful">Thou couldest have no power [at all] against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin</god>.        
 	</verse><verse number = "19:12"> And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Caesar’s friend: whosoever maketh himself a king speaketh against Caesar.        
 	</verse><verse number = "19:13"> When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha. 
 	</verse><verse number = "19:14"> And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King! 
@@ -191,10 +191,10 @@
 	</verse><verse number = "19:24"> They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which saith, They parted my raiment among them, and for my vesture they did cast lots. These things therefore the soldiers did.        
 	</verse><verse number = "19:25"> Now there stood by the cross of Jesus his mother, and his mother’s sister, Mary the [wife] of Cleophas, and Mary Magdalene. 
 	</verse><verse number = "19:26"> When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son! 
-	</verse><verse number = "19:27"> Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own [home. ]
+	</verse><verse number = "19:27"> <blessings>Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own [home. ]</blessings>
 	</verse><verse number = "19:28"> After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst. 
 	</verse><verse number = "19:29"> Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put [it] upon hyssop, and put [it] to his mouth. 
-	</verse><verse number = "19:30"> When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. 
+	</verse><verse number = "19:30"> When Jesus therefore had received the vinegar, he said, <god >It is finished: and he bowed his head, and gave up the ghost</god>. 
 	</verse><verse number = "19:31"> The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and [that] they might be taken away. 
 	</verse><verse number = "19:32"> Then came the soldiers, and brake the legs of the first, and of the other which was crucified with him.        
 	</verse><verse number = "19:33"> But when they came to Jesus, and saw that he was dead already, they brake not his legs: 
