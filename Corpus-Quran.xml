@@ -416,20 +416,6 @@
 </doc>   
 
 <!--<<<<<<< HEAD-->
-<!-- The Quran itself, in its original Arabic, has not changed. However, translations can vary significantly in wording. Here are a few examples of how certain phrases might differ between translations:
-1.	Surah Al-Fatiha (Chapter 1, Verse 1):
-o	Translation A: "In the name of Allah, the Most Gracious, the Most Merciful."
-o	Translation B: "In the name of God, the Compassionate, the Merciful."
-2.	Surah Al-Baqarah (Chapter 2, Verse 255 - Ayat al-Kursi):
-o	Translation A: "Allah! There is no deity except Him, the Ever-Living, the Sustainer of existence."
-o	Translation B: "God! There is no god but He, the Living, the Sustainer of all that exists."
-3.	Surah Al-Ikhlas (Chapter 112, Verse 1):
-o	Translation A: "Say, 'He is Allah, [who is] One."
-o	Translation B: "Proclaim: He is God, the One." -->
-<!--=======-->
-
-
-
 
 
 <!-- The Quran has remained largely unchanged since its revelation in the 7th century, and any differences between "old" and "new" versions usually refer to the various translations or interpretations rather than changes in the original Arabic text. Here are some points of distinction:
@@ -454,5 +440,6 @@ Translation B: "God! There is no god but He, the Living, the Sustainer of all th
 Surah Al-Ikhlas (Chapter 112, Verse 1):
 Translation A: "Say, 'He is Allah, [who is] One."
 Translation B: "Proclaim: He is God, the One." --> 
-
+  
+<!--=======-->
 <!-->>>>>>> 07e2fb1880974f94d1847e5d128ea880cdc7eb91-->
