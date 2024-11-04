@@ -5,6 +5,7 @@ story = element story {mixed {(book | chapter)+}}
     book = element book {mixed {name}, verse+}
     chapter = element chapter {number, verse+}
         number = attribute number {text}
+<<<<<<< HEAD
         verse = element verse {mixed {number, (god? | allah? | love? | respect? | worship?)*}}
             god = element god {characterization, text}
                 characterization = attribute characterization {"creator" | "wrathful" | "loving" | "merciful"} 
@@ -13,6 +14,31 @@ story = element story {mixed {(book | chapter)+}}
                 recipient = attribute recipient {"others" | "god"} 
             respect = element respect {recipient, text}    
             worship = element worship {recipient, text}
+=======
+        verse = element verse {mixed {number, (god | allah | love | respect | worship | blessings | heaven | hell)*}}
+            god = element god {(characterization | descrip), text}
+            # markup everytime it says god/references god, including when he is not the subject
+            # element is going to go around 'god' and context of the sentence
+                characterization = attribute characterization {"creator" | "wrathful" | "loving" | "powerful" | "merciful" | "other-positive" | "other-negative" | "other-neutral"} 
+                # creator - creation story
+                # wrathful - in instances when god is portrayed as vengeful - action is coming from god 
+                # loving - 'grace', showing affection
+                # powerful - greater than others, 'almighty god', 'command', god being all knowing (Omniscience), god being all powerful (omnipotent)
+                # merciful - 'mercy' is actively used; when god is choosing to do something good when he could punish
+                descrip = attribute descrip {"fear of"}
+                # similar to wrathful, but when action is from humanity/people (ie, when people are afraid)
+            allah = element allah {characterization, text}
+            love = element love {recipient, text}
+                recipient = attribute recipient {"others" | "god" | "idols"} 
+            respect = element respect {recipient, text}
+            # literally say 'respect', in a theoretical sense - keep an eye out for this when proof-reading 
+            worship = element worship {recipient, text}
+            # praise of god 
+            blessings = element blessings {text}
+            # literally says blessed/blessing; miracles, actions from Jesus; *only when bestowed onto a person* 
+            heaven = element heaven {text}
+            hell = element hell {text}
+>>>>>>> ce7331fddeeddae3b01fa0c32a656b5b5313d5a8
                
     
     
