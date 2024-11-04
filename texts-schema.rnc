@@ -5,16 +5,6 @@ story = element story {mixed {(book | chapter)+}}
     book = element book {mixed {name}, verse+}
     chapter = element chapter {number, verse+}
         number = attribute number {text}
-<<<<<<< HEAD
-        verse = element verse {mixed {number, (god? | allah? | love? | respect? | worship?)*}}
-            god = element god {characterization, text}
-                characterization = attribute characterization {"creator" | "wrathful" | "loving" | "merciful"} 
-            allah = element allah {characterization, text}
-            love = element love {recipient, text}
-                recipient = attribute recipient {"others" | "god"} 
-            respect = element respect {recipient, text}    
-            worship = element worship {recipient, text}
-=======
         verse = element verse {mixed {number, (god | allah | love | respect | worship | blessings | heaven | hell)*}}
             god = element god {(characterization | descrip), text}
             # markup everytime it says god/references god, including when he is not the subject
@@ -38,7 +28,6 @@ story = element story {mixed {(book | chapter)+}}
             # literally says blessed/blessing; miracles, actions from Jesus; *only when bestowed onto a person* 
             heaven = element heaven {text}
             hell = element hell {text}
->>>>>>> ce7331fddeeddae3b01fa0c32a656b5b5313d5a8
                
     
     
