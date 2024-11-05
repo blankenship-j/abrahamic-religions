@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    color: #4A90E2;
+}
+
+h2 {
+    color: #333;
+}
+
+.verse {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-left: 3px solid #4A90E2;
+}
+
+.god {
+    font-weight: bold;
+    color: #D50000;
+}
