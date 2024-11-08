@@ -1,0 +1,158 @@
+body {
+    background-color: FloralWhite;
+    color: Tan;
+}
+
+
+/* top navigation */
+ul.nav-bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:PapayaWhip;
+    display:block;}
+
+li.nav-bar{
+    float:left;}
+
+li a {
+    display: block;
+    color:Tan; 
+    text-align:center;
+    padding: 10px;
+    text-decoration: none;}
+
+
+/* text boxes */
+div.item {
+    display:block;
+    background:PapayaWhip;
+    padding: 5px;
+    margin: 30px;
+    border-radius: 15px;
+    border-width: 3px;}
+
+
+/* filters */
+ul.filters {
+    list-style-type:none;}
+
+div.filters {
+    position:relative;
+    left:20px;}
+
+            /* checkboxes */
+            /* Customize the label (the container) */
+             .container {
+              display: block;
+              position: relative;
+              padding-left: 35px;
+              margin-bottom: 12px;
+              cursor: pointer;
+              font-size: 16px;} 
+            
+            /* Hide the browser's default checkbox */
+            .container input {
+              opacity: 0;} 
+            
+            /* Create a custom checkbox */
+            .checkmark {
+              position: absolute;
+              top: 0;
+              left: 0;
+              height: 25px;
+              width: 25px;
+              background-color: PapayaWhip;} 
+            
+            /* On mouse-over, add a tan background color */
+            .container:hover input ~ .checkmark {
+              background-color: tan;} 
+            
+            /* When the checkbox is checked, add a tan background */
+            .container input:checked ~ .checkmark {
+              background-color: tan;} 
+            
+            /* Create the checkmark/indicator (hidden when not checked) */
+            .checkmark:after {
+              content: "";
+              position: absolute;
+              display: none; }
+            
+            /* Show the checkmark when checked */
+            .container input:checked ~ .checkmark:after {
+              display: block;} 
+            
+            /* Style the checkmark/indicator */
+            .container .checkmark:after {
+              left: 9px;
+              top: 5px;
+              width: 5px;
+              height: 10px;
+              border: solid white;
+              border-width: 0 3px 3px 0;
+              transform: rotate(45deg);} 
+            
+                
+            /* Customize the label (the container) */
+            .container-indent {
+              display: block;
+              position: relative;
+              left:30px;
+              padding-left: 35px;
+              margin-bottom: 12px;
+              cursor: pointer;
+              font-size: 16px;} 
+            
+            /* Hide the browser's default checkbox */
+            .container-indent input {
+              opacity: 0;}  
+            
+            /* Create a custom checkbox */
+            .checkmark {
+              position: absolute;
+              top: 0;
+              left: 0;
+              height: 25px;
+              width: 25px;
+              background-color: PapayaWhip;} 
+            
+            /* On mouse-over, add a tan background color */
+            .container-indent:hover input ~ .checkmark {
+              background-color: tan;} 
+            
+            /* When the checkbox is checked, add a tan background */
+            .container-indent input:checked ~ .checkmark {
+              background-color: tan;} 
+            
+            /* Create the checkmark/indicator (hidden when not checked) */
+            .checkmark:after {
+              content: "";
+              position: absolute;
+              display: none;} 
+            
+            /* Show the checkmark when checked */
+            .container-indent input:checked ~ .checkmark:after {
+              display: block;} 
+            
+            /* Style the checkmark/indicator */
+            .container-indent .checkmark:after {
+              left: 9px;
+              top: 5px;
+              width: 5px;
+              height: 10px;
+              border: solid white;
+              border-width: 0 3px 3px 0;
+              transform: rotate(45deg);} 
+
+
+/* texts */
+div.texts {
+    display:block;
+    background: PapayaWhip;
+    position:relative;
+    left:200px;
+    top:-1250px;
+    padding:10px;
+    border-radius:15px;}
+
