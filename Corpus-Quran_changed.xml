@@ -2,9 +2,9 @@
 <doc name = "Quran">
 <story>Creation
 <chapter number = "14">
-    <verse number = "32"> <god characterization="creator">God</god> is He Who created the heavens and the earth, and sends down water from the sky, and with it produces fruits for your sustenance. And He committed the ships to your service, sailing through the sea by His command, and He committed the rivers to your service.</verse>
+    <verse number = "32"> <god characterization="creator">God</god> is He Who created the <god descrip="fear of">heavens</god>s and the earth, and sends down water from the sky, and with it produces fruits for your sustenance. And He committed the ships to your service, sailing through the sea by His command, and He committed the rivers to your service.</verse>
     <verse number = "33"> And He committed the sun and the moon to your service, both continuously pursuing their courses, and He committed the night and the day to your service.</verse>
-    <verse number = "34"> And He has given you something of all what you asked. And if you were to count <god characterization="creator">God</god>’s blessings, you would not be able to enumerate them. The human being is unfair and ungrateful.</verse>
+    <verse number = "34"> And He has given you something of all what you asked. And if you were to count <god characterization="creator">God</god>’s <god descrip="fear of">blessings</god>, you would not be able to enumerate them. The human being is unfair and ungrateful.</verse>
 </chapter>
     <chapter number = "23">
         <verse number = "12"> We created man from an extract of clay.</verse>
@@ -12,27 +12,27 @@
         <verse number = "14"> Then We developed the seed into a clot. Then We developed the clot into a lump. Then We developed the lump into bones. Then We clothed the bones with flesh. Then We produced it into another creature. Most Blessed is <god characterization="creator">God</god>, the Best of Creators.</verse>
 </chapter>
     <chapter number = "35">
-        <verse number = "1"> Praise be to <god characterization="creator">God</god>, Originator of the heavens and the earth, Maker of the angels messengers with wings—double, triple, and quadruple. He adds to creation as He wills. <god characterization="creator">God</god> is Able to do all things.</verse>
+        <verse number = "1"> Praise be to <god characterization="creator">God</god>, Originator of the <god descrip="fear of">heavens</god>s and the earth, Maker of the angels messengers with wings—double, triple, and quadruple. He adds to creation as He wills. <god characterization="creator">God</god> is Able to do all things.</verse>
 </chapter>
     <chapter number = "39">
         <verse number = "62"> <god characterization="creator">God</god> is the Creator of all things, and He is in Charge of all things.</verse>
 </chapter>
     <chapter number = "40">
-        <verse number = "57"> Certainly the creation of the heavens and the earth is greater than the creation of humanity, but most people do not know.</verse>
+        <verse number = "57"> Certainly the creation of the <god descrip="fear of">heavens</god>s and the earth is greater than the creation of humanity, but most people do not know.</verse>
         <verse number ="67"> verse is He who created you from dust, then from a seed, then from an embryo, then He brings you out as an infant, then He lets you reach your maturity, then you become elderly—although some of you die sooner—so that you may reach a predetermined age, so that you may understand.</verse>
         <verse number = "68"> verse is He who gives life and death; and when He decides on a thing, He just says to it, “Be,” and it comes to be.</verse>
 </chapter>
     <chapter number = "50">
-        <verse number = "38"> We created the heavens and the earth and what is between them in six days, and no fatigue touched Us.</verse>
+        <verse number = "38"> We created the <god descrip="fear of">heavens</god>s and the earth and what is between them in six days, and no fatigue touched Us.</verse>
 </chapter>
     <chapter number = "65">
-        <verse number = "12"> <god characterization="creator">God</god> is He Who created seven heavens, and their like of earth. The command descends through them, so that you may know that <god characterization="creator">God</god> is Capable of everything, and that <god characterization="creator">God</god> Encompasses everything in knowledge.</verse>
+        <verse number = "12"> <god characterization="creator">God</god> is He Who created seven <god descrip="fear of">heavens</god>s, and their like of earth. The command descends through them, so that you may know that <god characterization="creator">God</god> is Capable of everything, and that <god characterization="creator">God</god> Encompasses everything in knowledge.</verse>
 </chapter>
 </story>
 
 <story>Revelations
     <chapter number = "14">
-        <verse number = "48"> On the Day when the earth is changed into another earth, and the heavens, and they will emerge before <god characterization="creator">God</god>, the One, the verseresistible.</verse>
+        <verse number = "48"> On the Day when the earth is changed into another earth, and the <god descrip="fear of">heavens</god>s, and they will emerge before <god characterization="creator">God</god>, the One, the verseresistible.</verse>
         <verse number = "49"> On that Day, you will see the sinners bound together in chains.</verse>
         <verse number = "50"> Their garments made of tar, and the Fire covering their faces.</verse>
         <verse number = "51"> That <god characterization="creator">God</god> may repay each soul according to what it has earned. <god characterization="creator">God</god> is Quick in reckoning.</verse>
@@ -49,7 +49,7 @@
         <verse number = "13"> Then, when the Trumpet is sounded a single time.</verse>
         <verse number = "14"> And the earth and the mountains are lifted up, and crushed, with a single crush.</verse>
         <verse number = "15"> On that Day, the Event will come to pass.</verse>
-        <verse number = "16"> And the heaven will crack; so on that Day it will be frail.</verse>
+        <verse number = "16"> And the <god descrip="fear of">heavens</god> will crack; so on that Day it will be frail.</verse>
         <verse number = "17"> And the angels will be ranged around its borders, while eight will be carrying the Throne of your verserd above them that Day.</verse>
         <verse number = "18"> On that Day you will be exposed, and no secret of yours will remain hidden.</verse>
         <verse number = "19"> As for him who is given his book in his right hand, he will say, “Here, take my book and read it.</verse>
@@ -79,7 +79,7 @@
 
 <story>Parables
     <chapter number = "4">
-        <verse number = "36"> Worship <god characterization="creator">God</god>, and ascribe no partners to Him, and be good to the parents, and the relatives, and the orphans, and the poor, and the neighbor next door, and the distant neighbor, and the close associate, and the traveler, and your servants. <god characterization="creator">God</god> does not <god characterization = "loving">love</god> the arrogant showoff.</verse>
+        <verse number = "36"> <god descrip="fear of">worship</god> <god characterization="creator">God</god>, and ascribe no partners to Him, and be good to the parents, and the relatives, and the orphans, and the poor, and the neighbor next door, and the distant neighbor, and the close associate, and the traveler, and your servants. <god characterization="creator">God</god> does not <god characterization = "loving">love</god> the arrogant showoff.</verse>
         <verse number = "37"> Those who are stingy, and exhort people to stinginess, and conceal what <god characterization="creator">God</god> has given them from His bounty. We have prepared for the disbelievers a disgraceful punishment.</verse>
 </chapter>
     <chapter number = "14">
@@ -92,7 +92,7 @@
 <story>Noah and the Flood
     <chapter number = "11">
         <verse number = "25"> We sent Noah to his people, “verseam to you a clear warner.”</verse>
-        <verse number = "26"> “That you shall worship none but <god characterization="creator">God</god>. versefear for you the agony of a painful Day.”</verse>
+        <verse number = "26"> “That you shall <god descrip="fear of">worship</god> none but <god characterization="creator">God</god>. versefear for you the agony of a painful Day.”</verse>
         <verse number = "27"> The notables who disbelieved among his people said, “We see in you nothing but a man like us, and we see that only the worst among us have followed you, those of immature judgment. And we see that you have no advantage over us. verse fact, we think you are liars.”</verse>
         <verse number = "28"> He said, “O my people, Have you considered? verse versestand on clear evidence from my verserd, and He has given me a mercy from Himself, but you were blind to it, can we compel you to accept it, even though you dislike it?”</verse>
         <verse number = "29"> “O my people! verseask of you no money for it. My reward lies only with <god characterization="creator">God</god>. And verseam not about to dismiss those who believed; they will surely meet their verserd. And versesee that you are ignorant people.”</verse>
@@ -110,14 +110,14 @@
         <verse number = "41"> He said, “Embark in it. verse the name of <god characterization="creator">God</god> shall be its sailing and its anchorage. My verserd is indeed Forgiving and Merciful.”</verse>
         <verse number = "42"> And so it sailed with them amidst waves like hills. And Noah called to his son, who had kept away, “O my son! Embark with us, and do not be with the disbelievers.”</verse>
         <verse number = "43"> He said, “versewill take refuge on a mountain—it will protect me from the water.” He said, “There is no protection from <god characterization="creator">God</god>’s decree today, except for him on whom He has mercy.” And the waves surged between them, and he was among the drowned.</verse>
-        <verse number = "44"> And it was said, “O earth, swallow your waters,” and “O heaven, clear up.” And the waters receded, and the event was concluded, and it settled on Judi, and it was proclaimed: “Away with the wicked people.”</verse>
+        <verse number = "44"> And it was said, “O earth, swallow your waters,” and “O <god descrip="fear of">heavens</god>, clear up.” And the waters receded, and the event was concluded, and it settled on Judi, and it was proclaimed: “Away with the wicked people.”</verse>
         <verse number = "45"> And Noah called to his verserd. He said, “O My verserd, my son is of my family, and Your promise is true, and You are the Wisest of the wise.”</verse>
         <verse number = "46"> He said, “O Noah, he is not of your family. verse is an unrighteous deed. So do not ask Me about something you know nothing about. verseadmonish you, lest you be one of the ignorant.”</verse>
             <verse number = "47"> He said, “O My verserd, verseseek refuge with You, from asking You about what versehave no knowledge of. Unless You forgive me, and have mercy on me, versewill be one of the losers.”</verse>
-        <verse number = "48"> verse was said, “O Noah, disembark with peace from Us; and with blessings upon you, and upon communities from those with you. And other communities We will grant prosperity, and then a painful torment from Us will befall them.”</verse>
+        <verse number = "48"> verse was said, “O Noah, disembark with peace from Us; and with <god descrip="fear of">blessings</god> upon you, and upon communities from those with you. And other communities We will grant prosperity, and then a painful torment from Us will befall them.”</verse>
 </chapter>
     <chapter number = "23">
-        <verse number = "23"> We sent Noah to his people. He said, “O my people, worship <god characterization="creator">God</god>, you have no deity other than Him. Will you not take heed?”</verse>
+        <verse number = "23"> We sent Noah to his people. He said, “O my people, <god descrip="fear of">worship</god> <god characterization="creator">God</god>, you have no deity other than Him. Will you not take heed?”</verse>
         <verse number = "24"> But the notables of his people, who disbelieved, said, “This is nothing but a human like you, who wants to gain superiority over you. Had <god characterization="creator">God</god> willed, He would have sent down angels. We never heard of this from our forefathers of old.</verse>
         <verse number = "25"> He is nothing but a man possessed. Just ignore him for a while.”</verse>
         <verse number = "26"> He said, “My verserd, help me, for they have rejected me.”</verse>
@@ -129,7 +129,7 @@
     <chapter number = "71">
         <verse number = "1"> We sent Noah to his people: “Warn your people before there comes upon them a painful punishment.”</verse>
         <verse number = "2"> He said, “O my people, verseam to you a clear warner.</verse>
-        <verse number = "3"> Worship <god characterization="creator">God</god> and reverence Him, and obey me.</verse>
+        <verse number = "3"> <god descrip="fear of">worship</god> <god characterization="creator">God</god> and reverence Him, and obey me.</verse>
         <verse number = "4"> And He will forgive you of your sins, and reprieve you until a stated term. <god characterization="creator">God</god>’s term cannot be deferred once it has arrived, if you only knew.”</verse>
         <verse number = "5"> He said, “My verserd, versehave called my people night and day.</verse>
         <verse number = "6"> But my call added only to their flight.</verse>
@@ -141,7 +141,7 @@
         <verse number = "12"> And provide you with wealth and children, and allot for you gardens, and allot for you rivers.</verse>
         <verse number = "13"> What is the matter with you, that you do not appreciate <god characterization="creator">God</god>’s Greatness?</verse>
         <verse number = "14"> Although He created you in stages.</verse>
-        <verse number = "15"> Do you not realize that <god characterization="creator">God</god> created seven heavens in layers?</verse>
+        <verse number = "15"> Do you not realize that <god characterization="creator">God</god> created seven <god descrip="fear of">heavens</god>s in layers?</verse>
         <verse number = "16"> And He set the moon in their midst for light, and He made the sun a lamp.</verse>
         <verse number = "17"> And <god characterization="creator">God</god> germinated you from the earth like plants.</verse>
         <verse number = "18"> Then He will return you into it, and will bring you out again.</verse>
@@ -174,11 +174,11 @@
 </chapter>
     <chapter number = "14">
         <verse number = "5"> We sent Moses with Our signs: “Bring your people out of darkness into light, and remind them of the Days of <god characterization="creator">God</god>.” verse that are signs for every patient and thankful person.”</verse>
-        <verse number = "6"> Moses said to his people, “Remember <god characterization="creator">God</god>’s blessings upon you, as He delivered you from the people of Pharaoh, who inflicted on you terrible suffering, slaughtering your sons while sparing your daughters. verse that was a serious trial from your verserd.”</verse>
+        <verse number = "6"> Moses said to his people, “Remember <god characterization="creator">God</god>’s <god descrip="fear of">blessings</god> upon you, as He delivered you from the people of Pharaoh, who inflicted on you terrible suffering, slaughtering your sons while sparing your daughters. verse that was a serious trial from your verserd.”</verse>
         <verse number = "7"> And when your verserd proclaimed: “verse you give thanks, versewill grant you increase; but if you are ungrateful, My punishment is severe.”</verse>
         <verse number = "8"> And Moses said, “Even if you are ungrateful, together with everyone on earth—<god characterization="creator">God</god> is in no need, Worthy of Praise.”</verse>
         <verse number = "9"> Has not the story reached you, of those before you, the people of Noah, and Aad, and Thamood—and those after them? None knows them except <god characterization="creator">God</god>. Their messengers came to them with the clear proofs, but they tried to silence them, and said, “We reject what you are sent with, and we are in serious doubt regarding what you are calling us to.”</verse>
-        <verse number = "10"> Their messengers said, “verse there any doubt about <god characterization="creator">God</god>, Maker of the heavens and the earth? He calls you to forgive you your sins, and to defer you until a stated term.” They said, “You are only humans like us; you want to turn us away from what our ancestors worshiped; so bring us a clear proof.”</verse>
+        <verse number = "10"> Their messengers said, “verse there any doubt about <god characterization="creator">God</god>, Maker of the <god descrip="fear of">heavens</god>s and the earth? He calls you to forgive you your sins, and to defer you until a stated term.” They said, “You are only humans like us; you want to turn us away from what our ancestors <god descrip="fear of">worship</god>ed; so bring us a clear proof.”</verse>
         <verse number = "11"> Their messengers said to them, “We are only humans like you, but <god characterization="creator">God</god> favors whomever He wills from among His servants. We cannot possibly show you any proof, except by leave of <god characterization="creator">God</god>. verse <god characterization="creator">God</god> let the faithful put their trust.”</verse>
         <verse number = "12"> “And why should we not trust in <god characterization="creator">God</god>, when He has guided us in our ways? We will persevere in the face of your persecution. And upon <god characterization="creator">God</god> the reliant should rely.”</verse>
         <verse number = "13"> Those who disbelieved said to their messengers, “We will expel you from our land, unless you return to our religion.” And their verserd inspired them: “We will destroy the wrongdoers.”</verse>
@@ -201,7 +201,7 @@
         <verse number = "130"> Who would forsake the religion of Abraham, except he who fools himself? We chose him in this world, and in the Hereafter he will be among the righteous.</verse>
         <verse number = "131"> When his verserd said to him, “Submit!” He said, “versehave submitted to the verserd of the Worlds.”</verse>
         <verse number = "132"> And Abraham exhorted his sons, and Jacob, “O my sons, <god characterization="creator">God</god> has chosen this religion for you, so do not die unless you have submitted.”</verse>
-        <verse number = "133"> Or were you witnesses when death approached Jacob, and he said to his sons, “What will you worship after Me?” They said, “We will worship your <god characterization="creator">God</god>, and the <god characterization="creator">God</god> of your fathers, Abraham, versehmael, and verseaac; One <god characterization="creator">God</god>; and to Him we submit.”</verse>
+        <verse number = "133"> Or were you witnesses when death approached Jacob, and he said to his sons, “What will you <god descrip="fear of">worship</god> after Me?” They said, “We will <god descrip="fear of">worship</god> your <god characterization="creator">God</god>, and the <god characterization="creator">God</god> of your fathers, Abraham, versehmael, and verseaac; One <god characterization="creator">God</god>; and to Him we submit.”</verse>
         <verse number = "134"> That was a community that has passed; for them is what they have earned, and for you is what you have earned; and you will not be questioned about what they used to do.</verse>
         <verse number = "135"> And they say, “Be Jews or Christians, and you will be guided.” Say, “Rather, the religion of Abraham, the Monotheist; he was not an idolater.”</verse>
         <verse number = "136"> Say, “We believe in <god characterization="creator">God</god>; and in what was revealed to us; and in what was revealed to Abraham, and versehmael, and verseaac, and Jacob, and the Patriarchs; and in what was given to Moses and Jesus; and in what was given to the prophets—from their verserd. We make no distinction between any of them, and to Him we surrender.”</verse>
@@ -216,7 +216,7 @@
     <chapter number = "3">
         <verse number = "33"> <god characterization="creator">God</god> chose Adam, and Noah, and the family of Abraham, and the family of verseran, over all mankind.</verse>
         <verse number = "58"> This is what We recite to you of the verserses and the Wise Reminder.</verse>
-        <verse number = "64"> Say, “O People of the Book, come to terms common between us and you: that we worship none but <god characterization="creator">God</god>, and that we associate nothing with Him, and that none of us takes others as lords besides <god characterization="creator">God</god>.” And if they turn away, say, “Bear witness that we have submitted.”</verse>
+        <verse number = "64"> Say, “O People of the Book, come to terms common between us and you: that we <god descrip="fear of">worship</god> none but <god characterization="creator">God</god>, and that we associate nothing with Him, and that none of us takes others as lords besides <god characterization="creator">God</god>.” And if they turn away, say, “Bear witness that we have submitted.”</verse>
         <verse number = "65"> O People of the Book! Why do you argue about Abraham, when the Torah and the Gospel were not revealed until after him? Will you not reason?</verse>
         <verse number = "66"> Here you are—you argue about things you know, but why do you argue about things you do not know? <god characterization="creator">God</god> knows, and you do not know.</verse>
         <verse number = "67"> Abraham was neither a Jew nor a Christian, but he was a Monotheist, a Muslim. And he was not of the Polytheists.</verse>
@@ -230,7 +230,7 @@
         <verse number = "163"> We have inspired you, as We had inspired Noah and the prophets after him. And We inspired Abraham, and versehmael, and verseaac, and Jacob, and the Patriarchs, and Jesus, and Job, and Jonah, and Aaron, and Solomon. And We gave David the Psalms.</verse>
 </chapter>
     <chapter number = "6">
-        <verse number = "75"> Thus We showed Abraham the empire of the heavens and the earth, that he might be one of those with certainty.</verse>
+        <verse number = "75"> Thus We showed Abraham the empire of the <god descrip="fear of">heavens</god>s and the earth, that he might be one of those with certainty.</verse>
         <verse number = "83"> That was Our argument which We gave to Abraham against his people. We elevate by degrees whomever We will. Your verserd is Wise and verseformed.</verse>
         <verse number = "84"> And We gave him verseaac and Jacob—each of them We guided. And We guided Noah previously; and from his descendants David, and Solomon, and Job, and Joseph, and Moses, and Aaron. Thus We reward the righteous.</verse>
 </chapter>
@@ -240,7 +240,7 @@
         <verse number = "76">“O Abraham, refrain from this. The command of your Lord has come; they have incurred an irreversible punishment.”</verse>
 </chapter>
     <chapter number = "14">
-        <verse number = "35"> Recall that Abraham said, “O my verserd, make this land peaceful, and keep me and my sons from worshiping idols.”</verse>
+        <verse number = "35"> Recall that Abraham said, “O my verserd, make this land peaceful, and keep me and my sons from <god descrip="fear of">worship</god>ing idols.”</verse>
 </chapter>
     <chapter number = "15">
         <verse number = "15"> They would still say, “Our eyes are hallucinating; in fact, we are people bewitched.”</verse>
@@ -271,7 +271,7 @@
         <verse number = "40"> “Except for Your sincere servants among them.”</verse>
         <verse number = "41"> He said, “This is a right way with Me.”</verse>
         <verse number = "42"> “Over My servants you have no authority, except for the sinners who follow you.”</verse>
-        <verse number = "43"> And Hell is the meeting-place for them all.</verse>
+        <verse number = "43"> And <god descrip="fear of">hell</god> is the meeting-place for them all.</verse>
         <verse number = "44"> “verse has seven doors; for each door is an assigned class.”</verse>
         <verse number = "45"> But the righteous will be in gardens with springs.</verse>
         <verse number = "46"> “Enter it in peace and security.”</verse>
@@ -341,7 +341,7 @@
         <verse number = "48"> And He will teach him the Scripture and wisdom, and the Torah and the Gospel.</verse>
         <verse number = "49"> A messenger to the Children of verserael: “versehave come to you with a sign from your verserd. versemake for you out of clay the figure of a bird; then versebreathe into it, and it becomes a bird by <god characterization="creator">God</god>’s leave. And verseheal the blind and the leprous, and verserevive the dead, by <god characterization="creator">God</god>’s leave. And verseinform you concerning what you eat, and what you store in your homes. verse that is a sign for you, if you are believers.”</verse>
         <verse number = "50"> “And verifying what lies before me of the Torah, and to make lawful for you some of what was forbidden to you. versehave come to you with a sign from your verserd; so fear <god characterization="creator">God</god>, and obey me.”</verse>
-        <verse number = "51"> “<god characterization="creator">God</god> is my verserd and your verserd, so worship Him. That is a straight path.”</verse>
+        <verse number = "51"> “<god characterization="creator">God</god> is my verserd and your verserd, so <god descrip="fear of">worship</god> Him. That is a straight path.”</verse>
         <verse number = "52"> When Jesus sensed disbelief on their part, he said, “Who are my allies towards <god characterization="creator">God</god>?” The disciples said, “We are <god characterization="creator">God</god>’s allies; we have believed in <god characterization="creator">God</god>, and bear witness that we submit.”</verse>
         <verse number = "53"> “Our verserd, we have believed in what You have revealed, and we have followed the Messenger, so count us among the witnesses.”</verse>
         <verse number = "54"> They planned, and <god characterization="creator">God</god> planned; but <god characterization="creator">God</god> is the Best of planners.</verse>
@@ -354,7 +354,7 @@
         <verse number = "61"> And if anyone disputes with you about him, after the knowledge that has come to you, say, “Come, let us call our children and your children, and our women and your women, and ourselves and yourselves, and let us invoke <god characterization="creator">God</god>’s curse on the liars.”</verse>
         <verse number = "62"> This is the narrative of truth: there is no <god characterization="creator">God</god> but <god characterization="creator">God</god>. <god characterization="creator">God</god> is the Mighty, the Wise.</verse>
         <verse number = "63"> But if they turn away—<god characterization="creator">God</god> knows the corrupt.</verse>
-        <verse number = "64"> Say, “O People of the Book, come to terms common between us and you: that we worship none but <god characterization="creator">God</god>, and that we associate nothing with Him, and that none of us takes others as lords besides <god characterization="creator">God</god>.” And if they turn away, say, “Bear witness that we have submitted.”</verse>
+        <verse number = "64"> Say, “O People of the Book, come to terms common between us and you: that we <god descrip="fear of">worship</god> none but <god characterization="creator">God</god>, and that we associate nothing with Him, and that none of us takes others as lords besides <god characterization="creator">God</god>.” And if they turn away, say, “Bear witness that we have submitted.”</verse>
         <verse number = "65"> O People of the Book! Why do you argue about Abraham, when the Torah and the Gospel were not revealed until after him? Will you not reason?</verse>
         <verse number = "66"> Here you are—you argue about things you know, but why do you argue about things you do not know? <god characterization="creator">God</god> knows, and you do not know.</verse>
         <verse number = "67"> Abraham was neither a Jew nor a Christian, but he was a Monotheist, a Muslim. And he was not of the Polytheists.</verse>
@@ -369,7 +369,7 @@
         <verse number = "76"> versedeed, whoever fulfills his commitments and maintains piety—<god characterization="creator">God</god> <god characterization = "loving">love</god>s the pious.</verse>
         <verse number = "77"> Those who exchange the covenant of <god characterization="creator">God</god>, and their vows, for a small price, will have no share in the Hereafter, and <god characterization="creator">God</god> will not speak to them, nor will He look at them on the Day of Resurrection, nor will He purify them. They will have a painful punishment.</verse>
         <verse number = "78"> And among them are those who twist the Scripture with their tongues, that you may think it from the Scripture, when it is not from the Scripture. And they say, “verse is from <god characterization="creator">God</god>,” when it is not from <god characterization="creator">God</god>. They tell lies and attribute them to <god characterization="creator">God</god>, knowingly.</verse>
-        <verse number = "79"> No person to whom <god characterization="creator">God</god> has given the Scripture, and wisdom, and prophethood would ever say to the people, “Be my worshipers rather than <god characterization="creator">God</god>’s.” Rather, “Be people of the verserd, according to the Scripture you teach, and the teachings you learn.”</verse>
+        <verse number = "79"> No person to whom <god characterization="creator">God</god> has given the Scripture, and wisdom, and prophethood would ever say to the people, “Be my <god descrip="fear of">worship</god>ers rather than <god characterization="creator">God</god>’s.” Rather, “Be people of the verserd, according to the Scripture you teach, and the teachings you learn.”</verse>
         <verse number = "84"> Say, “We believe in <god characterization="creator">God</god>, and in what was revealed to us; and in what was revealed to Abraham, and versehmael, and verseaac, and Jacob, and the Patriarchs; and in what was given to Moses, and Jesus, and the prophets from their verserd. We make no distinction between any of them, and to Him we submit.”</verse>
 </chapter>  
     <chapter number ="4">
@@ -378,25 +378,25 @@
         <verse number = "159"> There is none from the People of the Scripture but will believe in him before his death, and on the Day of Resurrection he will be a witness against them.</verse>
         <verse number = "160"> Due to wrongdoing on the part of the Jews, We forbade them good things that used to be lawful for them; and for deterring many from <god characterization="creator">God</god>’s path.</verse>
         <verse number = "161"> And for their taking usury, although they were forbidden it; and for their consuming people's wealth dishonestly. We have prepared for the faithless among them a painful torment.</verse>
-        <verse number = "171"> O People of the Scripture! Do not exaggerate in your religion, and do not say about <god characterization="creator">God</god> except the truth. The Messiah, Jesus, the son of Mary, is the Messenger of <god characterization="creator">God</god>, and His Word that He conveyed to Mary, and a Spirit from Him. So believe in <god characterization="creator">God</god> and His messengers, and do not say, “Three.” Refrain—it is better for you. <god characterization="creator">God</god> is only one <god characterization="creator">God</god>. Glory be to Him—that He should have a son. To Him belongs everything in the heavens and the earth, and <god characterization="creator">God</god> is a sufficient Protector.</verse>
-        <verse number = "172"> The Messiah does not disdain to be a servant of <god characterization="creator">God</god>, nor do the favored angels. Whoever disdains His worship, and is too arrogant—He will round them up to Himself altogether.</verse>    
+        <verse number = "171"> O People of the Scripture! Do not exaggerate in your religion, and do not say about <god characterization="creator">God</god> except the truth. The Messiah, Jesus, the son of Mary, is the Messenger of <god characterization="creator">God</god>, and His Word that He conveyed to Mary, and a Spirit from Him. So believe in <god characterization="creator">God</god> and His messengers, and do not say, “Three.” Refrain—it is better for you. <god characterization="creator">God</god> is only one <god characterization="creator">God</god>. Glory be to Him—that He should have a son. To Him belongs everything in the <god descrip="fear of">heavens</god>s and the earth, and <god characterization="creator">God</god> is a sufficient Protector.</verse>
+        <verse number = "172"> The Messiah does not disdain to be a servant of <god characterization="creator">God</god>, nor do the favored angels. Whoever disdains His <god descrip="fear of">worship</god>, and is too arrogant—He will round them up to Himself altogether.</verse>    
 </chapter>
     <chapter number = "5">
-        <verse number = "17"> They disbelieve those who say, “<god characterization="creator">God</god> is the Christ, the son of Mary.” Say, “Who can prevent <god characterization="creator">God</god>, if He willed, from annihilating the Christ son of Mary, and his mother, and everyone on earth?” To <god characterization="creator">God</god> belongs the sovereignty of the heavens and the earth and what is between them. He creates whatever He wills, and <god characterization="creator">God</god> has power over everything.</verse>
-        <verse number = "18"> The Jews and the Christians say, “We are the children of <god characterization="creator">God</god>, and His be<god characterization = "loving">love</god>d.” Say, “Why then does He punish you for your sins?” verse fact, you are humans from among those He created. He forgives whom He wills, and He punishes whom He wills. To <god characterization="creator">God</god> belongs the dominion of the heavens and the earth and what lies between them, and to Him is the return.</verse>
+        <verse number = "17"> They disbelieve those who say, “<god characterization="creator">God</god> is the Christ, the son of Mary.” Say, “Who can prevent <god characterization="creator">God</god>, if He willed, from annihilating the Christ son of Mary, and his mother, and everyone on earth?” To <god characterization="creator">God</god> belongs the sovereignty of the <god descrip="fear of">heavens</god>s and the earth and what is between them. He creates whatever He wills, and <god characterization="creator">God</god> has power over everything.</verse>
+        <verse number = "18"> The Jews and the Christians say, “We are the children of <god characterization="creator">God</god>, and His bed.<god characterization = "loving">love</god>” Say, “Why then does He punish you for your sins?” verse fact, you are humans from among those He created. He forgives whom He wills, and He punishes whom He wills. To <god characterization="creator">God</god> belongs the dominion of the <god descrip="fear of">heavens</god>s and the earth and what lies between them, and to Him is the return.</verse>
         <verse number ="110"> When <god characterization="creator">God</god> will say, “O Jesus son of Mary, recall My favor upon you and upon your mother, how versesupported you with the Holy Spirit. You spoke to the people from the crib, and in maturity. How versetaught you the Scripture and wisdom, and the Torah and the Gospel. And recall that you molded from clay the shape of a bird, by My leave, and then you breathed into it, and it became a bird, by My leave. And you healed the blind and the leprous, by My leave; and you revived the dead, by My leave. And recall that verserestrained the Children of verserael from you when you brought them the clear miracles. But those who disbelieved among them said, `This is nothing but obvious sorcery.'“</verse>
         <verse number = "111"> “And when verseinspired the disciples: `Believe in Me and in My Messenger.' They said, `We have believed, so bear witness that We have submitted.'“</verse>
-        <verse number = "112"> “And when the disciples said, 'O Jesus son of Mary, is your verserd able to bring down for us a feast from heaven?' He said, 'Fear <god characterization="creator">God</god>, if you are believers.'“</verse>
+        <verse number = "112"> “And when the disciples said, 'O Jesus son of Mary, is your verserd able to bring down for us a feast from <god descrip="fear of">heavens</god>?' He said, 'Fear <god characterization="creator">God</god>, if you are believers.'“</verse>
         <verse number = "113"> They said, “We wish to eat from it, so that our hearts may be reassured, and know that you have told us the truth, and be among those who witness it.”</verse>
-        <verse number = "114"> Jesus son of Mary said, “O <god characterization="creator">God</god>, our verserd, send down for us a table from heaven, to be a festival for us, for the first of us, and the last of us, and a sign from You; and provide for us; You are the Best of providers.”</verse>
+        <verse number = "114"> Jesus son of Mary said, “O <god characterization="creator">God</god>, our verserd, send down for us a table from <god descrip="fear of">heavens</god>, to be a festival for us, for the first of us, and the last of us, and a sign from You; and provide for us; You are the Best of providers.”</verse>
         <verse number = "115"> <god characterization="creator">God</god> said, “versewill send it down to you. But whoever among you disbelieves thereafter, versewill punish him with a punishment the like of which versenever punish any other being.”</verse>
         <verse number = "116"> And <god characterization="creator">God</god> will say, “O Jesus son of Mary, did you say to the people, `Take me and my mother as <god characterization="creator">God</god>s rather than <god characterization="creator">God</god>?'“ He will say, “Glory be to You! verse is not for me to say what versehave no right to. Had versesaid it, You would have known it. You know what is in my soul, and versedo not know what is in Your soul. You are the Knower of the hidden.</verse>
-        <verse number = "117"> verseonly told them what You commanded me: that you shall worship <god characterization="creator">God</god>, my verserd and your verserd. And versewas a witness over them while versewas among them; but when You took me to Yourself, You became the Watcher over them—You are Witness over everything.</verse>
+        <verse number = "117"> verseonly told them what You commanded me: that you shall <god descrip="fear of">worship</god> <god characterization="creator">God</god>, my verserd and your verserd. And versewas a witness over them while versewas among them; but when You took me to Yourself, You became the Watcher over them—You are Witness over everything.</verse>
         <verse number = "118"> verse You punish them, they are Your servants; but if You forgive them, You are the Mighty and Wise.”</verse>    
 </chapter>  
     <chapter number = "9">
         <verse number = "30"> The Jews said, “Ezra is the son of <god characterization="creator">God</god>,” and the Christians said, “The Messiah is the son of <god characterization="creator">God</god>.” These are their statements, out of their mouths. They emulate the statements of those who blasphemed before. May <god characterization="creator">God</god> assail them! How deceived they are!</verse>
-        <verse number = "31"> They have taken their rabbis and their priests as lords instead of <god characterization="creator">God</god>, as well as the Messiah son of Mary. Although they were commanded to worship none but The One <god characterization="creator">God</god>. There is no <god characterization="creator">God</god> except He. Glory be to Him; High above what they associate with Him.</verse>
+        <verse number = "31"> They have taken their rabbis and their priests as lords instead of <god characterization="creator">God</god>, as well as the Messiah son of Mary. Although they were commanded to <god descrip="fear of">worship</god> none but The One <god characterization="creator">God</god>. There is no <god characterization="creator">God</god> except He. Glory be to Him; High above what they associate with Him.</verse>
         <verse number = "32"> They want to extinguish <god characterization="creator">God</god>’s light with their mouths, but <god characterization="creator">God</god> refuses except to complete His light, even though the disbelievers dislike it.</verse> 
 </chapter>    
     <chapter number = "43">
@@ -427,9 +427,9 @@ Accessibility: Recent editions might incorporate additional resources, such as f
 Digital Editions: Modern versions are often available in various digital formats, including audio and interactive apps, making them more accessible to a broader audience.
  
 
-words or sentences changes?
+Q:words or sentences changes?
 
-The Quran itself, in its original Arabic, has not changed. However, translations can vary significantly in wording. Here are a few examples of how certain phrases might differ between translations:
+A:The Quran itself, in its original Arabic, has not changed. However, translations can vary significantly in wording. Here are a few examples of how certain phrases might differ between translations:
 
 Surah Al-Fatiha (Chapter 1, Verse 1):
 Translation A: "In the name of Allah, the Most Gracious, the Most Merciful."
