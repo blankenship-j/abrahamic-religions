@@ -1,7 +1,8 @@
 start = doc 
     doc = element doc {name, story+}
 name = attribute name {"Quran" | "Hebrew Scripture" | "Christian Scripture" | "Genesis" | "Exodus" | "Matthew" | "Luke" | "John" | "Philippians" | "Colossians" | "Hebrews" | "James" | "Revelations"} 
-story = element story {mixed {(book | chapter)+}}
+story = element story {mixed { s_name, (book | chapter)+}}
+s_name = attribute s_name {text}
     book = element book {mixed {name}, verse+}
     chapter = element chapter {number, verse+}
         number = attribute number {text}

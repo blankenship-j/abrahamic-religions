@@ -10,7 +10,7 @@
         <xsl:output method="xhtml" encoding="UTF-8" indent="yes"/>
         
         <xsl:template match="/doc">
-            <html>
+            <html xmlns="http://www.w3.org/1999/xhtml">
                 <head>
                     <title><xsl:value-of select="@name"/></title>
                     <link rel="stylesheet" type="text/css" href="styles.css"/>
