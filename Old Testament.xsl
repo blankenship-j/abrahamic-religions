@@ -31,12 +31,14 @@
         <xsl:apply-templates select="verse"/>
     </xsl:template>
     
+    <xsl:template match="verse/*">
+        <span class="{name()} {@*}">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
     <xsl:template match="verse">
         <div class="verse">
             <p><strong>Verse <xsl:value-of select="@number"/>:</strong> 
-                <xsl:for-each select="god">
-                    <span class="god"><xsl:value-of select="."/></span>
-                </xsl:for-each>
                 <xsl:value-of select="."/>
             </p>
         </div>
