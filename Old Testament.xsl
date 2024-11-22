@@ -23,7 +23,8 @@
         </html>
     </xsl:template>
     <xsl:template match="story">
-        <h2><xsl:apply-templates/></h2>
+        <h2><xsl:value-of select="@s_name"/></h2>
+        <xsl:apply-templates/>
     </xsl:template>
     <xsl:template match="book">
         <h3><xsl:value-of select="@name"/></h3>

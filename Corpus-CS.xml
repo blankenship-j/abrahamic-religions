@@ -1,7 +1,7 @@
 
 <?xml-model href="texts-schema.rnc" type="application/relax-ng-compact-syntax"?>
 <doc name = "Christian Scripture">    
-<story>Jesus 
+<story s_name="Jesus"> 
 <book name="Luke">         
 	<verse number = "1:1"> Forasmuch as many have taken in hand to <worship recipient="god">set forth in order a declaration of those things which are most surely believed among us</worship>,        
 	</verse><verse number = "1:2"> Even as they delivered them unto us, which from the beginning were eyewitnesses, and ministers of the word; 
@@ -261,7 +261,7 @@
 </story>
 
 	
-<story>Parables     
+<story s_name="Parables">     
 <book name = "Matthew">        
 	<verse number = "13:10"> And the disciples came, and said unto him, Why speakest thou unto them in parables? 
 	</verse><verse number = "13:11"> He answered and said unto them, <god characterization="creator">Because it is given unto you to know the mysteries of the kingdom of</god> <heaven>heaven</heaven>,<god characterization="creator"> but to them it is not given</god>. 
@@ -274,7 +274,7 @@
 </story>
 	
 	
-<story>Revelations
+<story s_name="Revelations">
 <book name = "Revelations">        
 	<verse number = "1:1"> <god characterization="creator">The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass</god>; and he sent and signified [it] by his angel unto his servant John: 
 	</verse><verse number = "1:2"> <god characterization="other-neutral">Who bare record of the word of God, and of the testimony of Jesus Christ</god>, and of all things that he saw. 
@@ -466,7 +466,7 @@
 </story>
 	
 	
-<story>Abraham   
+<story s_name="Abraham">   
 <book name = "Hebrews">        
 	<verse number = "11:8"> <respect recipient="god">By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went</respect>. 
 	</verse><verse number = "11:9"> <respect recipient="god">By faith he sojourned in the land of promise, as [in] a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise</respect>: 
