@@ -151,8 +151,108 @@ div.texts {
     display:block;
     background: PapayaWhip;
     position:relative;
-    left:200px;
+    left:250px;
     top:-1250px;
     padding:10px;
     border-radius:15px;}
+
+
+
+/* Formatting */
+div.verse {
+    display:inline;
+    vertical-align: super; 
+    font-size: smaller
+}
+
+
+
+div.creator {
+    display:inline
+}
+
+div.fear_of {
+    display:inline
+}
+
+div.loving {
+    display:inline
+}
+
+div.other-neutral {
+    display:inline
+}
+
+div.heaven {
+    display:inline
+}
+
+div.other-positive {
+    display:inline
+}
+
+div.other-negative {
+    display:inline
+}
+
+div.wrathful {
+    display:inline
+}
+
+div.merciful {
+    display:inline
+}
+
+div.worship_god {
+    display:inline
+}
+
+div.powerful {
+    display:inline
+}
+
+div.respect_others {
+    display:inline
+}
+
+
+div.love_others {
+    display:inline
+}
+
+div.worship_god {
+    display:inline
+}
+
+div.love_god {
+    display:inline
+}
+
+div.respect_god {
+    display:inline
+}
+
+div.worship_others {
+    display:inline
+}
+
+div.worship_idols {
+    display:inline
+}
+
+div.hell {
+    display:inline
+}
+
+div.blessings {
+    display:inline
+}
+
+
+
+
+
+
+
+
 
