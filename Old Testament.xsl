@@ -13,7 +13,7 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title><xsl:value-of select="@name"/></title>
+                <title>Old Testament</title>
                 <link rel="stylesheet" type="text/css" href="Quran.css"/>
             </head>
             <body>
@@ -36,6 +36,7 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
+    
     <xsl:template match="verse">
         <div class="verse">
             <p><strong>Verse <xsl:value-of select="@number"/>:</strong> 
