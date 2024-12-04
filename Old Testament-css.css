@@ -1,0 +1,106 @@
+/* General body styling */
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+/* Container for the document */
+.doc-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling the title of the document */
+.doc-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #2e3a44;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Styling the verse numbers */
+.verse-number {
+    font-weight: bold;
+    color: #555;
+}
+
+/* Styling the verses' text */
+.verse-text {
+    font-size: 16px;
+    line-height: 1.8;
+    margin-bottom: 10px;
+}
+
+/* Adding quotation mark styling for verse text */
+.verse-text:before {
+    content: '"';
+    font-size: 22px;
+    color: #bbb;
+}
+
+.verse-text:after {
+    content: '"';
+    font-size: 22px;
+    color: #bbb;
+}
+
+/* Adding some spacing between verses */
+.verse {
+    margin-bottom: 15px;
+}
+
+/* Styling for the Bible version label */
+.version-label {
+    font-size: 14px;
+    color: #777;
+    text-align: right;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+/* Unified paragraph styling for Bible verses and commentary */
+.paragraph {
+    font-size: 16px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+/* Styling for explanatory text */
+.commentary {
+    background-color: #f9f9f9;
+    border-left: 4px solid #007bff;
+    padding: 15px;
+    color: #555;
+}
+
+/* Custom headings for commentary sections */
+.commentary h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #007bff;
+}
+
+/* Paragraphs inside the commentary */
+.commentary p {
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+/* Styling list items in commentary */
+.commentary ul {
+    margin-left: 20px;
+    list-style-type: disc;
+}
+
+.commentary li {
+    margin-bottom: 5px;
+}

@@ -1,0 +1,79 @@
+/* General styles for the document */
+doc {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+story {
+    margin-bottom: 30px;
+}
+
+chapter {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #ffffff;
+    border-left: 5px solid #2196F3;
+}
+
+verse {
+    display: block;
+    margin: 10px 0;
+    padding-left: 15px;
+    font-size: 1.1em;
+    color: #333;
+}
+
+verse::before {
+    content: "Verse ";
+    font-weight: bold;
+    color: #2196F3;
+}
+
+god {
+    font-weight: bold;
+    color: #F44336;
+}
+
+god[characterization="creator"] {
+    font-style: italic;
+}
+
+god[descrip="fear of"] {
+    text-decoration: underline;
+}
+
+/* Style for chapter numbers */
+chapter::before {
+    content: "Chapter " attr(number) ": ";
+    font-weight: bold;
+    color: #2196F3;
+}
+
+/* Story titles (Creation, Revelations) */
+story::before {
+    content: "Story: ";
+    font-size: 1.5em;
+    font-weight: bold;
+    display: block;
+    margin-top: 20px;
+    color: #212121;
+}
+
+/* Title for the document */
+doc::before {
+    content: "The Quran";
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #0D47A1;
+}
+
+/* Specific styles for verse references to the 'creator' */
+god[characterization="creator"] {
+    font-style: italic;
+    color: #F44336;
+}
