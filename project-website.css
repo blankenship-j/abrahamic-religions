@@ -150,10 +150,12 @@ div.filters {
 div.texts {
     display:block;
     background: PapayaWhip;
+    line-height:150%;
     position:relative;
     left:250px;
     top:-1250px;
     padding:10px;
+    width:1215px;
     border-radius:15px;}
 
 
@@ -249,11 +251,13 @@ div.blessings {
 }
 
 .highlighted {
-    background-color: lightyellow;
-    border: 2px solid black;
-    padding: 5px;
-    margin: 5px;
+        background-color: Wheat;
+        border: 2px solid black;
+        padding: 1px;
+        color: rosybrown;
+
 }
+
 
 
 
