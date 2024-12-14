@@ -248,7 +248,12 @@ div.blessings {
     display:inline
 }
 
-
+.highlighted {
+    background-color: lightyellow;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+}
 
 
 
