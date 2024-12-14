@@ -61,7 +61,7 @@
                  
                  <!-- script for checkboxes --> 
                 <script>      
-               function DoCheckUncheckDisplay(d,dchecked,dunchecked)
+               function Texts(d,dchecked,dunchecked)
                {
                   if( d.checked == true )
                   {
@@ -74,7 +74,7 @@
                      document.getElementById(dunchecked).style.display = "none";
                   }
                }
-               function DoCheckUncheckDisplay(checkbox, targetClass) {
+               function Highlight(checkbox, targetClass) {
         // Get all elements with the target class
         const elements = document.querySelectorAll(`.${targetClass}`);
 
@@ -91,65 +91,65 @@
                 
                 <h3>Text</h3>
                 <label class="container">Torah
-                    <input type="checkbox" onclick="DoCheckUncheckDisplay(this,'checkbox-checked-t','checkbox-unchecked')"></input>
+                	<input type="checkbox" onclick="Texts(this,'checkbox-checked-t','checkbox-unchecked')" checked="checked"/>
                     <span class="checkmark"></span>
                 </label>
                 <label class="container">New Testament
-                    <input type="checkbox" onclick="DoCheckUncheckDisplay(this,'checkbox-checked-n','checkbox-unchecked')"></input>
+                	<input type="checkbox" onclick="Texts(this,'checkbox-checked-n','checkbox-unchecked')" checked="checked"/>
                     <span class="checkmark"></span>
                 </label>
                 <label class="container">Quran
-                    <input type="checkbox" onclick="DoCheckUncheckDisplay(this,'checkbox-checked-q','checkbox-unchecked')"></input>
+                	<input type="checkbox" onclick="Texts(this,'checkbox-checked-q','checkbox-unchecked')" checked="checked"/>
                     <span class="checkmark"></span>
                 </label>
                 
                 <h3>Labels</h3>
                 <label class="container">God as the Creator
-                    <input type="checkbox" onclick="DoCheckUncheckDisplay(this,'creator')"></input>
+                    <input type="checkbox" onclick="Highlight(this,'creator')"></input>
                     <span class="checkmark"></span>
                 </label>
                 <label class="container">God as Wrathful
-                	<input type="checkbox" onclick="DoCheckUncheckDisplay(this,'wrathful')"></input>
+                	<input type="checkbox" onclick="Highlight(this,'wrathful')"></input>
                     <span class="checkmark"></span>
                 </label>
                 <label class="container">God as Loving
-                	<input type="checkbox" onclick="DoCheckUncheckDisplay(this,'loving')"></input>
+                	<input type="checkbox" onclick="Highlight(this,'loving')"></input>
                     <span class="checkmark"></span>
                 </label>
                 <label class="container">God as Powerful
-                	<input type="checkbox" onclick="DoCheckUncheckDisplay(this,'powerful')"></input>
+                	<input type="checkbox" onclick="Highlight(this,'powerful')"></input>
                     <span class="checkmark"></span>
                 </label>
                 <label class="container">God as Merciful
-                	<input type="checkbox" onclick="DoCheckUncheckDisplay(this,'merciful')"></input>
+                	<input type="checkbox" onclick="Highlight(this,'merciful')"></input>
                     <span class="checkmark"></span>
                 </label>
                 <label class="container">God as Other (positive)
-                	<input type="checkbox" onclick="DoCheckUncheckDisplay(this,'other-positive')"></input>
+                	<input type="checkbox" onclick="Highlight(this,'other-positive')"></input>
                     <span class="checkmark"></span>
                 </label>
                 <label class="container">God as Other (negative)
-                	<input type="checkbox" onclick="DoCheckUncheckDisplay(this,'other-negative')"></input>
+                	<input type="checkbox" onclick="Highlight(this,'other-negative')"></input>
                     <span class="checkmark"></span>
                 </label>
                 <label class="container">God as Other (neutral)
-                	<input type="checkbox" onclick="DoCheckUncheckDisplay(this,'other-neutral')"></input>
+                	<input type="checkbox" onclick="Highlight(this,'other-neutral')"></input>
                     <span class="checkmark"></span>
                 </label>
                 <label class="container">Fear of God
-                	<input type="checkbox" onclick="DoCheckUncheckDisplay(this,'fear_of')"></input>
+                	<input type="checkbox" onclick="Highlight(this,'fear_of')"></input>
                     <span class="checkmark"></span>
                 </label>
                 <label class="container">Love
-                	<input type="checkbox" onclick="DoCheckUncheckDisplay(this,'love_others', 'love_god')"></input>
+                	<input type="checkbox" onclick="Highlight(this,'love_others', 'love_god')"></input>
                     <span class="checkmark"></span>
                 </label>
                 <label class="container-indent">Recipient is God
-                	<input type="checkbox" onclick="DoCheckUncheckDisplay(this,'love_god',)"></input>
+                	<input type="checkbox" onclick="Highlight(this,'love_god',)"></input>
                     <span class="checkmark"></span>
                 </label>
                 <label class="container-indent">Other recipient
-                	<input type="checkbox" onclick="DoCheckUncheckDisplay(this,'love_others')"></input>
+                	<input type="checkbox" onclick="Highlight(this,'love_others')"></input>
                     <span class="checkmark"></span>
                 </label>
                 <label class="container">Respect
